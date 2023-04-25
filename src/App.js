@@ -1,39 +1,18 @@
 // import './App.css';
 import React from 'react'
-import { Header as HeaderUI, Menu as MenuUI, Container} from 'semantic-ui-react';
-import { NavLink, Route, Switch} from 'react-router-dom';
+import { Route, Switch} from 'react-router-dom';
+import { 
+  Container,
+  Header as HeaderUI        } from 'semantic-ui-react';
+import Header from './Header';
 
-function Header (){
-
-
-
-  return(
-    <Container text>
-      <HeaderUI as = 'h1'>Lego Set Library</HeaderUI>
-      <MenuUI inverted>
-        <MenuUI.Item 
-          as = {NavLink}
-          exact to = "/"
-          name = "home"
-        />
-        <MenuUI.Item 
-          as = {NavLink}
-          exact to = "/sets"
-          name = "set library"
-        />
-        <MenuUI.Item 
-          as = {NavLink}
-          exact to = "/add"
-          name = "add to library"
-        />
-      </MenuUI>
-    </Container>
-  )
-}
 
 function Home (){
   return(
-    <HeaderUI as = 'h2'>Home Page</HeaderUI>
+    <Container text textAlign='center' padding = {"1em"}>
+      <HeaderUI as = 'h2'>Welcome to the Lego Set Library</HeaderUI>
+    </Container>
+    
   )
 }
 
