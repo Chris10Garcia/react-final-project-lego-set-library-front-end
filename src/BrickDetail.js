@@ -6,16 +6,17 @@ import {
 } from 'semantic-ui-react';
 
 function BrickDetail({legoSetList}) {
+  console.log(legoSetList)
   const params = useParams()
-  console.log(params)
+  console.log(params.id)
 
   return (
     <Grid.Column width={6}>
       <Container text>
-        <HeaderUI as="h3">Lego Set Details</HeaderUI>
-          Name: {legoSetList[params.legoSetId].name}
+        <HeaderUI as="h3">This worked! and {params.id}</HeaderUI>
+          {/* Name: {legoSetList[params.legoSetId].name}
           Theme: {legoSetList[params.legoSetId].theme}
-          Number of Parts: {legoSetList[params.legoSetId].numOfParts}
+          Number of Parts: {legoSetList[params.legoSetId].numOfParts} */}
       </Container>
     </Grid.Column>
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import { useRouteMatch, Route, Switch } from 'react-router-dom';
+import { useRouteMatch, Route } from 'react-router-dom';
 import BrickList from './BrickList';
 import BrickDetail from './BrickDetail';
 import {
@@ -8,6 +8,7 @@ import {
   Segment,
   Header as HeaderUI
 } from 'semantic-ui-react';
+import { useParams } from 'react-router-dom/cjs/react-router-dom.min';
 
 
 const legoSetList = [ 
@@ -31,7 +32,9 @@ const legoSetList = [
 
 function BrickContainer() {
   const match = useRouteMatch();
-  console.log(match);
+  console.log(match.url);
+  const params = useParams()
+  console.log(params)
 
   return (
     <Segment padded style = {{"marginTop":"0"}}>
@@ -43,16 +46,16 @@ function BrickContainer() {
         <Grid.Row>
           <BrickList legoSetList = {legoSetList}/>
 
-          <Route exact path = {match.url}>
+          <Route exact path = {`${match.url}`}>
             <Grid.Column width={6}>
-              <Container text>
+              <Container text> 
                 <HeaderUI as="h3">Lego Set Details</HeaderUI>
                 Lego details are placed here
               </Container>
             </Grid.Column>
           </Route>
 
-          <Route path = {`${match.url}/:legoSetId`}>
+          <Route exact path = {`${match.url}/:id`}>
             <BrickDetail legoSetList = {legoSetList}/>
           </Route>
         </Grid.Row>
