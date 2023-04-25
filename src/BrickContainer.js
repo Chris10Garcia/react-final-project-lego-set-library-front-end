@@ -1,28 +1,33 @@
 import React from 'react';
-import { NavLink, useRouteMatch } from 'react-router-dom';
+import { useRouteMatch } from 'react-router-dom';
+import BrickList from './BrickList';
 import {
   Container,
   Grid,
-  Menu,
   Segment,
   Header as HeaderUI
 } from 'semantic-ui-react';
 
-function BrickList (){
-  return(
-    <Grid.Column width={4}>
-      <HeaderUI as="h3">Leg Set List</HeaderUI>
-      <Menu size="large" vertical text fluid style={{ "overflowY": "scroll", "maxHeight": "60vh" }}>
-        <Menu.Item name='Set 1' as={NavLink} exact to="/1"></Menu.Item>
-        <Menu.Item name='Set 1'></Menu.Item>
-        <Menu.Item name='Set 1'></Menu.Item>
-        <Menu.Item name='Set 1'></Menu.Item>
-        <Menu.Item name='Set 1'></Menu.Item>
-        <Menu.Item name='Set 1'></Menu.Item>
-        <Menu.Item name='Set 1'></Menu.Item>
-        <Menu.Item name='Set 1'></Menu.Item>
-      </Menu>
+const brickList = [ 
+  {id: 1, name:"Avengers Set", image: "marvel.jpg", theme: "sci-fi", numOfParts: 3545 },
+  {id: 2, name:"Dragon Island", image: "dragons.jpg", theme: "fantasy", numOfParts: 399 },
+  {id: 3, name:"City Block", image: "building.jpg", theme: "civil", numOfParts: 5035 },
+  {id: 4, name:"Train town", image: "train.jpg", theme: "civl", numOfParts: 999 },
+  {id: 5, name:"Avengers Set", image: "marvel.jpg", theme: "sci-fi", numOfParts: 3545 },
+  {id: 6, name:"Dragon Island", image: "dragons.jpg", theme: "fantasy", numOfParts: 399 },
+  {id: 7, name:"City Block", image: "building.jpg", theme: "civil", numOfParts: 5035 },
+  {id: 8, name:"Train town", image: "train.jpg", theme: "civl", numOfParts: 999 },
+]
+
+function BrickDetail (){
+  return (
+    <Grid.Column width={6}>
+      <Container text>
+        <HeaderUI as="h3">Lego Set Details</HeaderUI>
+        Lego details are placed here
+      </Container>
     </Grid.Column>
+
   )
 }
 
@@ -31,25 +36,15 @@ function BrickContainer() {
   console.log(match);
 
   return (
-    <Segment padded>
+    <Segment padded style = {{"marginTop":"0"}}>
       <Container textAlign='center'>
         <HeaderUI as='h2'>Lego Set Library Container</HeaderUI>
       </Container>
 
       <Grid padded divided>
         <Grid.Row>
-          {/* CREATE NEW COMPONENT HERE */}
-          <BrickList />
-          {/* END OF COMPONET */}
-
-          {/* CREATE NEW COMPONENT HERE */}
-          <Grid.Column width={6}>
-            <Container text>
-              <HeaderUI as="h3">Lego Set Details</HeaderUI>
-              Lego details are placed here
-            </Container>
-          </Grid.Column>
-          {/* END OF COMPONET */}
+          <BrickList brickList = {brickList}/>
+          <BrickDetail />
 
         </Grid.Row>
       </Grid>
