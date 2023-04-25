@@ -17,11 +17,11 @@ function Header() {
           name="home" />
         <MenuUI.Item
           as={NavLink}
-          exact to="/sets"
+          to="/sets"
           name="set library" />
         <MenuUI.Item
           as={NavLink}
-          exact to="/add"
+          to="/add"
           name="add to library" />
       </MenuUI>
     </Segment>
