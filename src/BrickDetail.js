@@ -1,0 +1,25 @@
+import React from 'react';
+import { useParams } from "react-router-dom";
+import {
+  Container,
+  Grid, Header as HeaderUI
+} from 'semantic-ui-react';
+
+function BrickDetail({legoSetList}) {
+  const params = useParams()
+  console.log(params)
+
+  return (
+    <Grid.Column width={6}>
+      <Container text>
+        <HeaderUI as="h3">Lego Set Details</HeaderUI>
+          Name: {legoSetList[params.legoSetId].name}
+          Theme: {legoSetList[params.legoSetId].theme}
+          Number of Parts: {legoSetList[params.legoSetId].numOfParts}
+      </Container>
+    </Grid.Column>
+
+  );
+}
+
+export default BrickDetail
