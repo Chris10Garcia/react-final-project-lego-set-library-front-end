@@ -23,10 +23,10 @@ function App() {
         <Route exact path = "/">
           <Home />
         </Route>
-        <Route exact path = "/sets">
+        <Route path = "/sets">
           <BrickContainer />
         </Route>
-        <Route exact path = "/add">
+        <Route path = "/add">
           <NewBrickSet />
         </Route>
       </Switch>

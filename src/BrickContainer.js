@@ -8,7 +8,7 @@ import {
   Segment,
   Header as HeaderUI
 } from 'semantic-ui-react';
-import { useParams } from 'react-router-dom/cjs/react-router-dom.min';
+
 
 
 const legoSetList = [ 
@@ -30,11 +30,11 @@ const legoSetList = [
   {id: 16, name:"Train town", image: "train.jpg", theme: "civl", numOfParts: 999 },
 ]
 
+
+
 function BrickContainer() {
   const match = useRouteMatch();
   console.log(match.url);
-  const params = useParams()
-  console.log(params)
 
   return (
     <Segment padded style = {{"marginTop":"0"}}>
@@ -55,7 +55,7 @@ function BrickContainer() {
             </Grid.Column>
           </Route>
 
-          <Route exact path = {`${match.url}/:id`}>
+          <Route exact path = {`${match.url}/:legoSetId`}>
             <BrickDetail legoSetList = {legoSetList}/>
           </Route>
         </Grid.Row>
