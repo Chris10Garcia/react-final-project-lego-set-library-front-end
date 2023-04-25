@@ -4,7 +4,8 @@
 
 ### Source Material
 
-
+lego logo picture
+- https://27gen.com/2016/04/04/consider-the-lego-brick/
 
 
 

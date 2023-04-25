@@ -2,19 +2,10 @@
 import React from 'react'
 import { Route, Switch} from 'react-router-dom';
 import { 
-  Container,
-  Header as HeaderUI        } from 'semantic-ui-react';
+  Header as HeaderUI} from 'semantic-ui-react';
 import Header from './Header';
+import Home from './Home';
 
-
-function Home (){
-  return(
-    <Container text textAlign='center' padding = {"1em"}>
-      <HeaderUI as = 'h2'>Welcome to the Lego Set Library</HeaderUI>
-    </Container>
-    
-  )
-}
 
 function BrickContainer (){
   return(
