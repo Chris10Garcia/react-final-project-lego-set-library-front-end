@@ -34,7 +34,7 @@ const legoSetList = [
 
 function BrickContainer() {
   const match = useRouteMatch();
-  console.log(match.url);
+
 
   return (
     <Segment padded style = {{"marginTop":"0"}}>

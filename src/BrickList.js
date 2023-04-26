@@ -13,7 +13,7 @@ function BrickList({ legoSetList }) {
     )
   })
   return (
-    <Grid.Column width={4}>
+    <Grid.Column style = {{width : "40vh"}}>
       <HeaderUI as="h3">Leg Set List</HeaderUI>
       <Menu size="large" vertical fluid style={{ "overflowY": "scroll", "maxHeight": "50vh" }}>
         {legoNameListJSX}
