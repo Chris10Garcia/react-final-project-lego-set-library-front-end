@@ -18,10 +18,10 @@ function Home() {
       </Container>
       <Container style={{ "padding": "10em" }}>
         <Card.Group itemsPerRow={4}>
-          <Card image={require("./assets/legotestpic.png")} />
-          <Card image={require("./assets/legotestpic.png")} />
-          <Card image={require("./assets/legotestpic.png")} />
-          <Card image={require("./assets/legotestpic.png")} />
+          <Card image={require("../assets/legotestpic.png")} />
+          <Card image={require("../assets/legotestpic.png")} />
+          <Card image={require("../assets/legotestpic.png")} />
+          <Card image={require("../assets/legotestpic.png")} />
         </Card.Group>
       </Container>
     </Segment>

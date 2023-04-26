@@ -9,7 +9,7 @@ import {
 function Header() {
   return (
     <Segment style={{ "marginBottom": "0em", "paddingTop" : "3em" }}>
-      <HeaderUI as='h1' image = {require("./assets/lego-red-brick-logo.jpeg")} content='Lego Set Library' />
+      <HeaderUI as='h1' image = {require("../assets/lego-red-brick-logo.jpeg")} content='Lego Set Library' />
       <MenuUI widths={3} size ="huge">
         <MenuUI.Item
           as={NavLink}
