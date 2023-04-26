@@ -4,8 +4,8 @@ import { Route, Switch} from 'react-router-dom';
 import Header from './Header';
 import Home from './Home';
 import BrickContainer from './BrickContainer';
-import { 
-  Segment} from 'semantic-ui-react';
+// import { 
+//   Segment} from 'semantic-ui-react';
 import NewBrickSetForm from './NewBrickSetForm';
 
 
