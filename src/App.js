@@ -5,15 +5,10 @@ import Header from './Header';
 import Home from './Home';
 import BrickContainer from './BrickContainer';
 import { 
-  Header as HeaderUI} from 'semantic-ui-react';
+  Segment} from 'semantic-ui-react';
+import NewBrickSetForm from './NewBrickSetForm';
 
 
-
-function NewBrickSet (){
-  return(
-    <HeaderUI as = 'h2'>Add new lego set here</HeaderUI>
-  )
-}
 
 function App() {
   return (
@@ -27,7 +22,7 @@ function App() {
           <BrickContainer />
         </Route>
         <Route path = "/add">
-          <NewBrickSet />
+          <NewBrickSetForm />
         </Route>
       </Switch>
 
