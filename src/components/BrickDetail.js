@@ -11,7 +11,10 @@ function BrickDetail({legoSetData}) {
   params.legoSetId = params.legoSetId - 1
   const legoSet = legoSetData[params.legoSetId]
   
-  if (!legoSet) return <Redirect to = "/" />
+  // wait for page to load.
+  // maybe add a loading screen animation
+  if (!legoSet) return <h3>page loading...</h3>
+
 
   return (
     <Grid.Column width={6}>
