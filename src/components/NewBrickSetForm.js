@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { useHistory } from 'react-router-dom';
 import {
   Container,
   Form,
@@ -6,7 +7,8 @@ import {
   Input
 } from 'semantic-ui-react';
 
-function NewBrickSetForm() {
+function NewBrickSetForm({addLego}) {
+  const history = useHistory()
 
   const [formData, setFormData] = useState({
     set_num : "",
@@ -25,6 +27,21 @@ function NewBrickSetForm() {
 
   function handleSubmit(){
     console.log(formData)
+    //fetch request
+
+    fetch('http://localhost:3001/legoset', {
+      method: "POST",
+      headers: {"Content-Type" : "application/json"},
+      body: JSON.stringify(formData)})
+      .then( r => r.json() )
+      .then( data => { 
+        addLego(data)
+        alert(`Hello, ${data.name} was successfully added!`)
+        history.push(`sets/${data.id}`)  
+
+
+      })
+
   }
 
   return (

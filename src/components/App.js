@@ -24,6 +24,10 @@ function App() {
   }, [])
 
 
+  function addLego(legoObj){
+    setLegoSetData([...legoSetData, legoObj])
+  }
+
   return (
     <div className="App">
       <Header/>
@@ -35,7 +39,7 @@ function App() {
           <BrickContainer legoSetData = {legoSetData} />
         </Route>
         <Route path = "/add">
-          <NewBrickSetForm />
+          <NewBrickSetForm addLego={addLego}/>
         </Route>
       </Switch>
 
