@@ -5,9 +5,9 @@ import {
   Menu, Header as HeaderUI
 } from 'semantic-ui-react';
 
-function BrickList({ legoSetList }) {
+function BrickList({ legoSetData }) {
 
-  const legoNameListJSX = legoSetList.map(lego => {
+  const legoNameListJSX = legoSetData.map(lego => {
     return(
       <Menu.Item key = {lego.id} name = {lego.name} as={NavLink} to = {`/sets/${lego.id}`} />
     )

@@ -1,5 +1,5 @@
 // import './App.css';
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 import { Route, Switch} from 'react-router-dom';
 import Header from './Header';
 import Home from './Home';
@@ -11,6 +11,19 @@ import NewBrickSetForm from './NewBrickSetForm';
 
 
 function App() {
+
+  // brickList Data needs to be here because of BrickContainer and NewBrickForm Components
+
+  const [legoSetData, setLegoSetData] = useState([])
+
+  useEffect( () => {
+
+    fetch('http://localhost:3001/legoset')
+    .then( r => r.json() )
+    .then( d => setLegoSetData(d))
+  }, [])
+
+
   return (
     <div className="App">
       <Header/>
@@ -19,7 +32,7 @@ function App() {
           <Home />
         </Route>
         <Route path = "/sets">
-          <BrickContainer />
+          <BrickContainer legoSetData = {legoSetData} />
         </Route>
         <Route path = "/add">
           <NewBrickSetForm />
