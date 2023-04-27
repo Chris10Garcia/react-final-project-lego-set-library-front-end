@@ -1,0 +1,5434 @@
+{
+  "legoset": [
+   {
+     "id": 1,
+     "set_num": "31203-1",
+     "name": "World Map",
+     "year": 2021,
+     "theme_id": 709,
+     "num_parts": 11695,
+     "theme": "LEGO Art",
+     "img_url": "https://cdn.rebrickable.com/media/sets/31203-1.jpg"
+   },
+   {
+     "id": 2,
+     "set_num": "10307-1",
+     "name": "Eiffel Tower",
+     "year": 2022,
+     "theme_id": 721,
+     "num_parts": 10001,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10307-1.jpg"
+   },
+   {
+     "id": 3,
+     "set_num": "BIGBOX-1",
+     "name": "The Ultimate Battle for Chima",
+     "year": 2015,
+     "theme_id": 571,
+     "num_parts": 9987,
+     "theme": "Legends of Chima",
+     "img_url": "https://cdn.rebrickable.com/media/sets/bigbox-1.jpg"
+   },
+   {
+     "id": 4,
+     "set_num": "10294-1",
+     "name": "Titanic",
+     "year": 2021,
+     "theme_id": 721,
+     "num_parts": 9092,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10294-1.jpg"
+   },
+   {
+     "id": 5,
+     "set_num": "10276-1",
+     "name": "Colosseum",
+     "year": 2020,
+     "theme_id": 721,
+     "num_parts": 9036,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10276-1.jpg"
+   },
+   {
+     "id": 6,
+     "set_num": "75192-1",
+     "name": "Millennium Falcon",
+     "year": 2017,
+     "theme_id": 171,
+     "num_parts": 7541,
+     "theme": "Ultimate Collector Series",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75192-1.jpg"
+   },
+   {
+     "id": 7,
+     "set_num": "75313-1",
+     "name": "AT-AT",
+     "year": 2021,
+     "theme_id": 171,
+     "num_parts": 6785,
+     "theme": "Ultimate Collector Series",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75313-1.jpg"
+   },
+   {
+     "id": 8,
+     "set_num": "75331-1",
+     "name": "The Razor Crest",
+     "year": 2022,
+     "theme_id": 171,
+     "num_parts": 6194,
+     "theme": "Ultimate Collector Series",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75331-1.jpg"
+   },
+   {
+     "id": 9,
+     "set_num": "10316-1",
+     "name": "Lord of the Rings: Rivendell",
+     "year": 2023,
+     "theme_id": 721,
+     "num_parts": 6182,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10316-1.jpg"
+   },
+   {
+     "id": 10,
+     "set_num": "71043-1",
+     "name": "Hogwarts Castle",
+     "year": 2018,
+     "theme_id": 246,
+     "num_parts": 6020,
+     "theme": "Harry Potter",
+     "img_url": "https://cdn.rebrickable.com/media/sets/71043-1.jpg"
+   },
+   {
+     "id": 11,
+     "set_num": "10256-1",
+     "name": "Taj Mahal",
+     "year": 2017,
+     "theme_id": 673,
+     "num_parts": 5923,
+     "theme": "Creator Expert",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10256-1.jpg"
+   },
+   {
+     "id": 12,
+     "set_num": "10299-1",
+     "name": "Real Madrid ‚Äì Santiago Bernab?©u Stadium",
+     "year": 2022,
+     "theme_id": 721,
+     "num_parts": 5876,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10299-1.jpg"
+   },
+   {
+     "id": 13,
+     "set_num": "71741-1",
+     "name": "NINJAGO City Gardens",
+     "year": 2021,
+     "theme_id": 435,
+     "num_parts": 5709,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/71741-1.jpg"
+   },
+   {
+     "id": 14,
+     "set_num": "75978-1",
+     "name": "Diagon Alley",
+     "year": 2020,
+     "theme_id": 246,
+     "num_parts": 5548,
+     "theme": "Harry Potter",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75978-1.jpg"
+   },
+   {
+     "id": 15,
+     "set_num": "10284-1",
+     "name": "Camp Nou - FC Barcelona",
+     "year": 2021,
+     "theme_id": 721,
+     "num_parts": 5509,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10284-1.jpg"
+   },
+   {
+     "id": 16,
+     "set_num": "76405-1",
+     "name": "Hogwarts Express - Collectors‚Äô Edition",
+     "year": 2022,
+     "theme_id": 246,
+     "num_parts": 5147,
+     "theme": "Harry Potter",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76405-1.jpg"
+   },
+   {
+     "id": 17,
+     "set_num": "70620-1",
+     "name": "NINJAGO City",
+     "year": 2017,
+     "theme_id": 616,
+     "num_parts": 4873,
+     "theme": "The LEGO Ninjago Movie",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70620-1.jpg"
+   },
+   {
+     "id": 18,
+     "set_num": "75252-1",
+     "name": "Imperial Star Destroyer",
+     "year": 2019,
+     "theme_id": 171,
+     "num_parts": 4784,
+     "theme": "Ultimate Collector Series",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75252-1.jpg"
+   },
+   {
+     "id": 19,
+     "set_num": "75827-1",
+     "name": "Firehouse Headquarters",
+     "year": 2016,
+     "theme_id": 607,
+     "num_parts": 4642,
+     "theme": "Ghostbusters",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75827-1.jpg"
+   },
+   {
+     "id": 20,
+     "set_num": "10305-1",
+     "name": "Lion Knights' Castle",
+     "year": 2022,
+     "theme_id": 721,
+     "num_parts": 4515,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10305-1.jpg"
+   },
+   {
+     "id": 21,
+     "set_num": "40179-1",
+     "name": "Personalised Mosaic Portrait",
+     "year": 2016,
+     "theme_id": 277,
+     "num_parts": 4502,
+     "theme": "Mosaic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/40179-1.jpg"
+   },
+   {
+     "id": 22,
+     "set_num": "31201-1",
+     "name": "Harry Potter Hogwarts Crests",
+     "year": 2021,
+     "theme_id": 709,
+     "num_parts": 4249,
+     "theme": "LEGO Art",
+     "img_url": "https://cdn.rebrickable.com/media/sets/31201-1.jpg"
+   },
+   {
+     "id": 23,
+     "set_num": "10253-1",
+     "name": "Big Ben",
+     "year": 2016,
+     "theme_id": 673,
+     "num_parts": 4167,
+     "theme": "Creator Expert",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10253-1.jpg"
+   },
+   {
+     "id": 24,
+     "set_num": "31205-1",
+     "name": "Jim Lee Batman Collection",
+     "year": 2022,
+     "theme_id": 709,
+     "num_parts": 4167,
+     "theme": "LEGO Art",
+     "img_url": "https://cdn.rebrickable.com/media/sets/31205-1.jpg"
+   },
+   {
+     "id": 25,
+     "set_num": "21226-1",
+     "name": "Art Project - Create Together",
+     "year": 2021,
+     "theme_id": 709,
+     "num_parts": 4138,
+     "theme": "LEGO Art",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21226-1.jpg"
+   },
+   {
+     "id": 26,
+     "set_num": "42100-1",
+     "name": "Liebherr R 9800 Excavator",
+     "year": 2019,
+     "theme_id": 1,
+     "num_parts": 4108,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42100-1.jpg"
+   },
+   {
+     "id": 27,
+     "set_num": "71040-1",
+     "name": "Disney Castle",
+     "year": 2016,
+     "theme_id": 608,
+     "num_parts": 4081,
+     "theme": "Disney",
+     "img_url": "https://cdn.rebrickable.com/media/sets/71040-1.jpg"
+   },
+   {
+     "id": 28,
+     "set_num": "10261-1",
+     "name": "Roller Coaster",
+     "year": 2018,
+     "theme_id": 673,
+     "num_parts": 4080,
+     "theme": "Creator Expert",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10261-1.jpg"
+   },
+   {
+     "id": 29,
+     "set_num": "910002-1",
+     "name": "Studgate Train Station",
+     "year": 2023,
+     "theme_id": 719,
+     "num_parts": 4074,
+     "theme": "BrickLink Designer Program",
+     "img_url": "https://cdn.rebrickable.com/media/sets/910002-1.jpg"
+   },
+   {
+     "id": 30,
+     "set_num": "42082-1",
+     "name": "Rough Terrain Crane",
+     "year": 2018,
+     "theme_id": 1,
+     "num_parts": 4056,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42082-1.jpg"
+   },
+   {
+     "id": 31,
+     "set_num": "76210-1",
+     "name": "Hulkbuster",
+     "year": 2022,
+     "theme_id": 696,
+     "num_parts": 4049,
+     "theme": "Super Heroes Marvel",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76210-1.jpg"
+   },
+   {
+     "id": 32,
+     "set_num": "75159-1",
+     "name": "Death Star",
+     "year": 2016,
+     "theme_id": 171,
+     "num_parts": 4024,
+     "theme": "Ultimate Collector Series",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75159-1.jpg"
+   },
+   {
+     "id": 33,
+     "set_num": "10255-1",
+     "name": "Assembly Square",
+     "year": 2017,
+     "theme_id": 155,
+     "num_parts": 4002,
+     "theme": "Modular Buildings",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10255-1.jpg"
+   },
+   {
+     "id": 34,
+     "set_num": "21330-1",
+     "name": "Home Alone",
+     "year": 2021,
+     "theme_id": 576,
+     "num_parts": 3955,
+     "theme": "LEGO Ideas and CUUSOO",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21330-1.jpg"
+   },
+   {
+     "id": 35,
+     "set_num": "42055-1",
+     "name": "Bucket Wheel Excavator",
+     "year": 2016,
+     "theme_id": 1,
+     "num_parts": 3929,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42055-1.jpg"
+   },
+   {
+     "id": 36,
+     "set_num": "10272-1",
+     "name": "Old Trafford - Manchester United",
+     "year": 2020,
+     "theme_id": 673,
+     "num_parts": 3898,
+     "theme": "Creator Expert",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10272-1.jpg"
+   },
+   {
+     "id": 37,
+     "set_num": "910027-1",
+     "name": "Mountain View Observatory",
+     "year": 2023,
+     "theme_id": 719,
+     "num_parts": 3876,
+     "theme": "BrickLink Designer Program",
+     "img_url": "https://cdn.rebrickable.com/media/sets/910027-1.jpg"
+   },
+   {
+     "id": 38,
+     "set_num": "42131-1",
+     "name": "Cat D11 Bulldozer",
+     "year": 2021,
+     "theme_id": 1,
+     "num_parts": 3854,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42131-1.jpg"
+   },
+   {
+     "id": 39,
+     "set_num": "76178-1",
+     "name": "Daily Bugle",
+     "year": 2021,
+     "theme_id": 706,
+     "num_parts": 3803,
+     "theme": "Spider-Man",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76178-1.jpg"
+   },
+   {
+     "id": 40,
+     "set_num": "42143-1",
+     "name": "Ferrari Daytona SP3",
+     "year": 2022,
+     "theme_id": 1,
+     "num_parts": 3778,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42143-1.jpg"
+   },
+   {
+     "id": 41,
+     "set_num": "10303-1",
+     "name": "Loop Coaster",
+     "year": 2022,
+     "theme_id": 721,
+     "num_parts": 3756,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10303-1.jpg"
+   },
+   {
+     "id": 42,
+     "set_num": "42115-1",
+     "name": "Lamborghini Si?°n FKP 37",
+     "year": 2020,
+     "theme_id": 1,
+     "num_parts": 3696,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42115-1.jpg"
+   },
+   {
+     "id": 43,
+     "set_num": "21323-1",
+     "name": "Grand Piano",
+     "year": 2020,
+     "theme_id": 576,
+     "num_parts": 3662,
+     "theme": "LEGO Ideas and CUUSOO",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21323-1.jpg"
+   },
+   {
+     "id": 44,
+     "set_num": "42083-1",
+     "name": "Bugatti Chiron",
+     "year": 2018,
+     "theme_id": 1,
+     "num_parts": 3599,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42083-1.jpg"
+   },
+   {
+     "id": 45,
+     "set_num": "70657-1",
+     "name": "NINJAGO City Docks",
+     "year": 2018,
+     "theme_id": 616,
+     "num_parts": 3555,
+     "theme": "The LEGO Ninjago Movie",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70657-1.jpg"
+   },
+   {
+     "id": 46,
+     "set_num": "910023-1",
+     "name": "Venetian Houses",
+     "year": 2022,
+     "theme_id": 719,
+     "num_parts": 3462,
+     "theme": "BrickLink Designer Program",
+     "img_url": "https://cdn.rebrickable.com/media/sets/910023-1.jpg"
+   },
+   {
+     "id": 47,
+     "set_num": "31204-1",
+     "name": "Elvis Presley ‚Äì The King",
+     "year": 2022,
+     "theme_id": 709,
+     "num_parts": 3445,
+     "theme": "LEGO Art",
+     "img_url": "https://cdn.rebrickable.com/media/sets/31204-1.jpg"
+   },
+   {
+     "id": 48,
+     "set_num": "70922-1",
+     "name": "The Joker Manor",
+     "year": 2017,
+     "theme_id": 708,
+     "num_parts": 3445,
+     "theme": "The LEGO Batman Movie",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70922-1.jpg"
+   },
+   {
+     "id": 49,
+     "set_num": "31200-1",
+     "name": "The Sith",
+     "year": 2020,
+     "theme_id": 709,
+     "num_parts": 3406,
+     "theme": "LEGO Art",
+     "img_url": "https://cdn.rebrickable.com/media/sets/31200-1.jpg"
+   },
+   {
+     "id": 50,
+     "set_num": "910008-1",
+     "name": "Modular Construction Site",
+     "year": 2023,
+     "theme_id": 719,
+     "num_parts": 3374,
+     "theme": "BrickLink Designer Program",
+     "img_url": "https://cdn.rebrickable.com/media/sets/910008-1.jpg"
+   },
+   {
+     "id": 51,
+     "set_num": "31197-1",
+     "name": "Andy Warhol's Marilyn Monroe",
+     "year": 2020,
+     "theme_id": 709,
+     "num_parts": 3341,
+     "theme": "LEGO Art",
+     "img_url": "https://cdn.rebrickable.com/media/sets/31197-1.jpg"
+   },
+   {
+     "id": 52,
+     "set_num": "76139-1",
+     "name": "1989 Batmobile",
+     "year": 2019,
+     "theme_id": 698,
+     "num_parts": 3310,
+     "theme": "UCS",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76139-1.jpg"
+   },
+   {
+     "id": 53,
+     "set_num": "75059-1",
+     "name": "Sandcrawler",
+     "year": 2014,
+     "theme_id": 171,
+     "num_parts": 3296,
+     "theme": "Ultimate Collector Series",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75059-1.jpg"
+   },
+   {
+     "id": 54,
+     "set_num": "75309-1",
+     "name": "Republic Gunship",
+     "year": 2021,
+     "theme_id": 171,
+     "num_parts": 3292,
+     "theme": "Ultimate Collector Series",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75309-1.jpg"
+   },
+   {
+     "id": 55,
+     "set_num": "10273-1",
+     "name": "Haunted House",
+     "year": 2020,
+     "theme_id": 721,
+     "num_parts": 3232,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10273-1.jpg"
+   },
+   {
+     "id": 56,
+     "set_num": "75290-1",
+     "name": "Mos Eisley Cantina",
+     "year": 2020,
+     "theme_id": 158,
+     "num_parts": 3187,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75290-1.jpg"
+   },
+   {
+     "id": 57,
+     "set_num": "70840-1",
+     "name": "Welcome to Apocalypseburg!",
+     "year": 2019,
+     "theme_id": 670,
+     "num_parts": 3178,
+     "theme": "The LEGO Movie II",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70840-1.jpg"
+   },
+   {
+     "id": 58,
+     "set_num": "31199-1",
+     "name": "Marvel Studios Iron Man",
+     "year": 2020,
+     "theme_id": 709,
+     "num_parts": 3167,
+     "theme": "LEGO Art",
+     "img_url": "https://cdn.rebrickable.com/media/sets/31199-1.jpg"
+   },
+   {
+     "id": 59,
+     "set_num": "10221-1",
+     "name": "Super Star Destroyer",
+     "year": 2011,
+     "theme_id": 171,
+     "num_parts": 3152,
+     "theme": "Ultimate Collector Series",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10221-1.jpg"
+   },
+   {
+     "id": 60,
+     "set_num": "75936-1",
+     "name": "Jurassic Park: T. rex Rampage",
+     "year": 2019,
+     "theme_id": 602,
+     "num_parts": 3120,
+     "theme": "Jurassic World",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75936-1.jpg"
+   },
+   {
+     "id": 61,
+     "set_num": "10297-1",
+     "name": "Boutique Hotel",
+     "year": 2022,
+     "theme_id": 155,
+     "num_parts": 3068,
+     "theme": "Modular Buildings",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10297-1.jpg"
+   },
+   {
+     "id": 62,
+     "set_num": "21318-1",
+     "name": "Tree House",
+     "year": 2019,
+     "theme_id": 576,
+     "num_parts": 3037,
+     "theme": "LEGO Ideas and CUUSOO",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21318-1.jpg"
+   },
+   {
+     "id": 63,
+     "set_num": "76391-1",
+     "name": "Hogwarts Icons Collectors‚Äô Edition",
+     "year": 2021,
+     "theme_id": 246,
+     "num_parts": 3012,
+     "theme": "Harry Potter",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76391-1.jpg"
+   },
+   {
+     "id": 64,
+     "set_num": "76042-1",
+     "name": "The SHIELD Helicarrier",
+     "year": 2015,
+     "theme_id": 702,
+     "num_parts": 2996,
+     "theme": "Avengers",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76042-1.jpg"
+   },
+   {
+     "id": 65,
+     "set_num": "10234-1",
+     "name": "Sydney Opera House",
+     "year": 2013,
+     "theme_id": 673,
+     "num_parts": 2989,
+     "theme": "Creator Expert",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10234-1.jpg"
+   },
+   {
+     "id": 66,
+     "set_num": "76215-1",
+     "name": "Black Panther",
+     "year": 2022,
+     "theme_id": 696,
+     "num_parts": 2961,
+     "theme": "Super Heroes Marvel",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76215-1.jpg"
+   },
+   {
+     "id": 67,
+     "set_num": "31198-1",
+     "name": "The Beatles",
+     "year": 2020,
+     "theme_id": 709,
+     "num_parts": 2933,
+     "theme": "LEGO Art",
+     "img_url": "https://cdn.rebrickable.com/media/sets/31198-1.jpg"
+   },
+   {
+     "id": 68,
+     "set_num": "71044-1",
+     "name": "Disney Train and Station",
+     "year": 2019,
+     "theme_id": 608,
+     "num_parts": 2927,
+     "theme": "Disney",
+     "img_url": "https://cdn.rebrickable.com/media/sets/71044-1.jpg"
+   },
+   {
+     "id": 69,
+     "set_num": "10278-1",
+     "name": "Police Station",
+     "year": 2021,
+     "theme_id": 155,
+     "num_parts": 2924,
+     "theme": "Modular Buildings",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10278-1.jpg"
+   },
+   {
+     "id": 70,
+     "set_num": "10312-1",
+     "name": "Jazz Club",
+     "year": 2023,
+     "theme_id": 155,
+     "num_parts": 2900,
+     "theme": "Modular Buildings",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10312-1.jpg"
+   },
+   {
+     "id": 71,
+     "set_num": "31207-1",
+     "name": "Floral Art",
+     "year": 2022,
+     "theme_id": 709,
+     "num_parts": 2870,
+     "theme": "LEGO Art",
+     "img_url": "https://cdn.rebrickable.com/media/sets/31207-1.jpg"
+   },
+   {
+     "id": 72,
+     "set_num": "21137-1",
+     "name": "The Mountain Cave",
+     "year": 2017,
+     "theme_id": 577,
+     "num_parts": 2863,
+     "theme": "Minecraft",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21137-1.jpg"
+   },
+   {
+     "id": 73,
+     "set_num": "2000430-1",
+     "name": "Identity and Landscape Kit",
+     "year": 2013,
+     "theme_id": 507,
+     "num_parts": 2854,
+     "theme": "Educational and Dacta",
+     "img_url": "https://cdn.rebrickable.com/media/sets/2000430-1.jpg"
+   },
+   {
+     "id": 74,
+     "set_num": "75222-1",
+     "name": "Betrayal at Cloud City",
+     "year": 2018,
+     "theme_id": 158,
+     "num_parts": 2812,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75222-1.jpg"
+   },
+   {
+     "id": 75,
+     "set_num": "2000430-2",
+     "name": "Identity and Landscape Kit",
+     "year": 2022,
+     "theme_id": 507,
+     "num_parts": 2810,
+     "theme": "Educational and Dacta",
+     "img_url": "https://cdn.rebrickable.com/media/sets/2000430-2.jpg"
+   },
+   {
+     "id": 76,
+     "set_num": "71411-1",
+     "name": "The Mighty Bowser",
+     "year": 2022,
+     "theme_id": 690,
+     "num_parts": 2807,
+     "theme": "Super Mario",
+     "img_url": "https://cdn.rebrickable.com/media/sets/71411-1.jpg"
+   },
+   {
+     "id": 77,
+     "set_num": "910013-1",
+     "name": "Retro Bowling Alley",
+     "year": 2022,
+     "theme_id": 719,
+     "num_parts": 2795,
+     "theme": "BrickLink Designer Program",
+     "img_url": "https://cdn.rebrickable.com/media/sets/910013-1.jpg"
+   },
+   {
+     "id": 78,
+     "set_num": "42043-1",
+     "name": "Mercedes-Benz Arocs 3245",
+     "year": 2015,
+     "theme_id": 1,
+     "num_parts": 2793,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42043-1.jpg"
+   },
+   {
+     "id": 79,
+     "set_num": "10224-1",
+     "name": "Town Hall",
+     "year": 2012,
+     "theme_id": 155,
+     "num_parts": 2772,
+     "theme": "Modular Buildings",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10224-1.jpg"
+   },
+   {
+     "id": 80,
+     "set_num": "70810-1",
+     "name": "MetalBeard‚Äôs Sea Cow",
+     "year": 2014,
+     "theme_id": 578,
+     "num_parts": 2743,
+     "theme": "The LEGO Movie",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70810-1.jpg"
+   },
+   {
+     "id": 81,
+     "set_num": "76218-1",
+     "name": "Sanctum Sanctorum",
+     "year": 2022,
+     "theme_id": 696,
+     "num_parts": 2713,
+     "theme": "Super Heroes Marvel",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76218-1.jpg"
+   },
+   {
+     "id": 82,
+     "set_num": "910004-1",
+     "name": "Winter Chalet",
+     "year": 2023,
+     "theme_id": 719,
+     "num_parts": 2708,
+     "theme": "BrickLink Designer Program",
+     "img_url": "https://cdn.rebrickable.com/media/sets/910004-1.jpg"
+   },
+   {
+     "id": 83,
+     "set_num": "42056-1",
+     "name": "Porsche 911 GT3 RS",
+     "year": 2016,
+     "theme_id": 1,
+     "num_parts": 2704,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42056-1.jpg"
+   },
+   {
+     "id": 84,
+     "set_num": "10257-1",
+     "name": "Carousel",
+     "year": 2017,
+     "theme_id": 673,
+     "num_parts": 2670,
+     "theme": "Creator Expert",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10257-1.jpg"
+   },
+   {
+     "id": 85,
+     "set_num": "31202-1",
+     "name": "Disney's Mickey Mouse",
+     "year": 2021,
+     "theme_id": 709,
+     "num_parts": 2658,
+     "theme": "LEGO Art",
+     "img_url": "https://cdn.rebrickable.com/media/sets/31202-1.jpg"
+   },
+   {
+     "id": 86,
+     "set_num": "71374-1",
+     "name": "Nintendo Entertainment System",
+     "year": 2020,
+     "theme_id": 690,
+     "num_parts": 2646,
+     "theme": "Super Mario",
+     "img_url": "https://cdn.rebrickable.com/media/sets/71374-1.jpg"
+   },
+   {
+     "id": 87,
+     "set_num": "42009-1",
+     "name": "Mobile Crane MK II",
+     "year": 2013,
+     "theme_id": 1,
+     "num_parts": 2607,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42009-1.jpg"
+   },
+   {
+     "id": 88,
+     "set_num": "42078-1",
+     "name": "Mack Anthem",
+     "year": 2018,
+     "theme_id": 1,
+     "num_parts": 2595,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42078-1.jpg"
+   },
+   {
+     "id": 89,
+     "set_num": "21332-1",
+     "name": "The Globe",
+     "year": 2022,
+     "theme_id": 576,
+     "num_parts": 2585,
+     "theme": "LEGO Ideas and CUUSOO",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21332-1.jpg"
+   },
+   {
+     "id": 90,
+     "set_num": "42110-1",
+     "name": "Land Rover Defender",
+     "year": 2019,
+     "theme_id": 1,
+     "num_parts": 2573,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42110-1.jpg"
+   },
+   {
+     "id": 91,
+     "set_num": "10264-1",
+     "name": "Corner Garage",
+     "year": 2019,
+     "theme_id": 155,
+     "num_parts": 2569,
+     "theme": "Modular Buildings",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10264-1.jpg"
+   },
+   {
+     "id": 92,
+     "set_num": "71006-1",
+     "name": "The Simpsons House",
+     "year": 2014,
+     "theme_id": 301,
+     "num_parts": 2547,
+     "theme": "Other",
+     "img_url": "https://cdn.rebrickable.com/media/sets/71006-1.jpg"
+   },
+   {
+     "id": 93,
+     "set_num": "21322-1",
+     "name": "Pirates of Barracuda Bay",
+     "year": 2020,
+     "theme_id": 576,
+     "num_parts": 2546,
+     "theme": "LEGO Ideas and CUUSOO",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21322-1.jpg"
+   },
+   {
+     "id": 94,
+     "set_num": "10306-1",
+     "name": "Atari 2600",
+     "year": 2022,
+     "theme_id": 721,
+     "num_parts": 2532,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10306-1.jpg"
+   },
+   {
+     "id": 95,
+     "set_num": "76052-1",
+     "name": "Batman Classic TV Series - Batcave",
+     "year": 2016,
+     "theme_id": 697,
+     "num_parts": 2526,
+     "theme": "Batman",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76052-1.jpg"
+   },
+   {
+     "id": 96,
+     "set_num": "10270-1",
+     "name": "Bookshop",
+     "year": 2020,
+     "theme_id": 155,
+     "num_parts": 2504,
+     "theme": "Modular Buildings",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10270-1.jpg"
+   },
+   {
+     "id": 97,
+     "set_num": "42098-1",
+     "name": "Car Transporter",
+     "year": 2019,
+     "theme_id": 1,
+     "num_parts": 2493,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42098-1.jpg"
+   },
+   {
+     "id": 98,
+     "set_num": "10260-1",
+     "name": "Downtown Diner",
+     "year": 2018,
+     "theme_id": 155,
+     "num_parts": 2480,
+     "theme": "Modular Buildings",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10260-1.jpg"
+   },
+   {
+     "id": 99,
+     "set_num": "10243-1",
+     "name": "Parisian Restaurant",
+     "year": 2014,
+     "theme_id": 155,
+     "num_parts": 2470,
+     "theme": "Modular Buildings",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10243-1.jpg"
+   },
+   {
+     "id": 100,
+     "set_num": "10247-1",
+     "name": "Ferris Wheel",
+     "year": 2015,
+     "theme_id": 673,
+     "num_parts": 2464,
+     "theme": "Creator Expert",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10247-1.jpg"
+   },
+   {
+     "id": 101,
+     "set_num": "2000431-1",
+     "name": "Connections Kit",
+     "year": 2013,
+     "theme_id": 507,
+     "num_parts": 2448,
+     "theme": "Educational and Dacta",
+     "img_url": "https://cdn.rebrickable.com/media/sets/2000431-1.jpg"
+   },
+   {
+     "id": 102,
+     "set_num": "80039-1",
+     "name": "The Heavenly Realms",
+     "year": 2022,
+     "theme_id": 693,
+     "num_parts": 2438,
+     "theme": "Monkie Kid",
+     "img_url": "https://cdn.rebrickable.com/media/sets/80039-1.jpg"
+   },
+   {
+     "id": 103,
+     "set_num": "10251-1",
+     "name": "Brick Bank",
+     "year": 2016,
+     "theme_id": 155,
+     "num_parts": 2384,
+     "theme": "Modular Buildings",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10251-1.jpg"
+   },
+   {
+     "id": 104,
+     "set_num": "42069-1",
+     "name": "Extreme Adventure",
+     "year": 2017,
+     "theme_id": 1,
+     "num_parts": 2382,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42069-1.jpg"
+   },
+   {
+     "id": 105,
+     "set_num": "76161-1",
+     "name": "1989 Batwing",
+     "year": 2020,
+     "theme_id": 698,
+     "num_parts": 2363,
+     "theme": "UCS",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76161-1.jpg"
+   },
+   {
+     "id": 106,
+     "set_num": "10237-1",
+     "name": "The Tower of Orthanc",
+     "year": 2013,
+     "theme_id": 566,
+     "num_parts": 2362,
+     "theme": "The Lord of the Rings",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10237-1.jpg"
+   },
+   {
+     "id": 107,
+     "set_num": "10283-1",
+     "name": "NASA Space Shuttle Discovery",
+     "year": 2021,
+     "theme_id": 721,
+     "num_parts": 2355,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10283-1.jpg"
+   },
+   {
+     "id": 108,
+     "set_num": "10274-1",
+     "name": "ECTO-1",
+     "year": 2020,
+     "theme_id": 721,
+     "num_parts": 2352,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10274-1.jpg"
+   },
+   {
+     "id": 109,
+     "set_num": "10317-1",
+     "name": "Land Rover Classic Defender 90",
+     "year": 2023,
+     "theme_id": 721,
+     "num_parts": 2344,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10317-1.jpg"
+   },
+   {
+     "id": 110,
+     "set_num": "21337-1",
+     "name": "Table Football",
+     "year": 2022,
+     "theme_id": 576,
+     "num_parts": 2339,
+     "theme": "LEGO Ideas and CUUSOO",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21337-1.jpg"
+   },
+   {
+     "id": 111,
+     "set_num": "21311-1",
+     "name": "Voltron",
+     "year": 2018,
+     "theme_id": 576,
+     "num_parts": 2321,
+     "theme": "LEGO Ideas and CUUSOO",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21311-1.jpg"
+   },
+   {
+     "id": 112,
+     "set_num": "21333-1",
+     "name": "The Starry Night",
+     "year": 2022,
+     "theme_id": 576,
+     "num_parts": 2316,
+     "theme": "LEGO Ideas and CUUSOO",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21333-1.jpg"
+   },
+   {
+     "id": 113,
+     "set_num": "75308-1",
+     "name": "R2-D2",
+     "year": 2021,
+     "theme_id": 158,
+     "num_parts": 2314,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75308-1.jpg"
+   },
+   {
+     "id": 114,
+     "set_num": "6250093-1",
+     "name": "Iron Man Mosaic",
+     "year": 2018,
+     "theme_id": 705,
+     "num_parts": 2305,
+     "theme": "Iron Man",
+     "img_url": "https://cdn.rebrickable.com/media/sets/6250093-1.jpg"
+   },
+   {
+     "id": 115,
+     "set_num": "6268521-1",
+     "name": "Harry Potter Mosaic",
+     "year": 2018,
+     "theme_id": 246,
+     "num_parts": 2305,
+     "theme": "Harry Potter",
+     "img_url": "https://cdn.rebrickable.com/media/sets/6268521-1.jpg"
+   },
+   {
+     "id": 116,
+     "set_num": "6268522-1",
+     "name": "Hermione Granger Mosaic",
+     "year": 2018,
+     "theme_id": 246,
+     "num_parts": 2305,
+     "theme": "Harry Potter",
+     "img_url": "https://cdn.rebrickable.com/media/sets/6268522-1.jpg"
+   },
+   {
+     "id": 117,
+     "set_num": "6278335-1",
+     "name": "Emmet Lenticular Mosaic",
+     "year": 2019,
+     "theme_id": 670,
+     "num_parts": 2305,
+     "theme": "The LEGO Movie II",
+     "img_url": "https://cdn.rebrickable.com/media/sets/6278335-1.jpg"
+   },
+   {
+     "id": 118,
+     "set_num": "70618-1",
+     "name": "Destiny's Bounty",
+     "year": 2017,
+     "theme_id": 616,
+     "num_parts": 2296,
+     "theme": "The LEGO Ninjago Movie",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70618-1.jpg"
+   },
+   {
+     "id": 119,
+     "set_num": "71042-1",
+     "name": "Silent Mary",
+     "year": 2017,
+     "theme_id": 263,
+     "num_parts": 2294,
+     "theme": "Pirates of the Caribbean",
+     "img_url": "https://cdn.rebrickable.com/media/sets/71042-1.jpg"
+   },
+   {
+     "id": 120,
+     "set_num": "75810-1",
+     "name": "The Upside Down",
+     "year": 2019,
+     "theme_id": 680,
+     "num_parts": 2287,
+     "theme": "Stranger Things",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75810-1.jpg"
+   },
+   {
+     "id": 121,
+     "set_num": "21010-1",
+     "name": "Robie House",
+     "year": 2011,
+     "theme_id": 252,
+     "num_parts": 2276,
+     "theme": "Architecture",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21010-1.jpg"
+   },
+   {
+     "id": 122,
+     "set_num": "10246-1",
+     "name": "Detective‚Äôs Office",
+     "year": 2015,
+     "theme_id": 155,
+     "num_parts": 2262,
+     "theme": "Modular Buildings",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10246-1.jpg"
+   },
+   {
+     "id": 123,
+     "set_num": "10279-1",
+     "name": "Volkswagen T2 Camper Van",
+     "year": 2021,
+     "theme_id": 721,
+     "num_parts": 2207,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10279-1.jpg"
+   },
+   {
+     "id": 124,
+     "set_num": "10232-1",
+     "name": "Palace Cinema",
+     "year": 2013,
+     "theme_id": 155,
+     "num_parts": 2194,
+     "theme": "Modular Buildings",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10232-1.jpg"
+   },
+   {
+     "id": 125,
+     "set_num": "42114-1",
+     "name": "6x6 Volvo Articulated Hauler",
+     "year": 2020,
+     "theme_id": 1,
+     "num_parts": 2193,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42114-1.jpg"
+   },
+   {
+     "id": 126,
+     "set_num": "80036-1",
+     "name": "The City of Lanterns",
+     "year": 2022,
+     "theme_id": 693,
+     "num_parts": 2187,
+     "theme": "Monkie Kid",
+     "img_url": "https://cdn.rebrickable.com/media/sets/80036-1.jpg"
+   },
+   {
+     "id": 127,
+     "set_num": "71016-1",
+     "name": "The Kwik-E-Mart",
+     "year": 2015,
+     "theme_id": 301,
+     "num_parts": 2179,
+     "theme": "Other",
+     "img_url": "https://cdn.rebrickable.com/media/sets/71016-1.jpg"
+   },
+   {
+     "id": 128,
+     "set_num": "21325-1",
+     "name": "Medieval Blacksmith",
+     "year": 2021,
+     "theme_id": 576,
+     "num_parts": 2164,
+     "theme": "LEGO Ideas and CUUSOO",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21325-1.jpg"
+   },
+   {
+     "id": 129,
+     "set_num": "75098-1",
+     "name": "Assault on Hoth",
+     "year": 2016,
+     "theme_id": 171,
+     "num_parts": 2144,
+     "theme": "Ultimate Collector Series",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75098-1.jpg"
+   },
+   {
+     "id": 130,
+     "set_num": "42129-1",
+     "name": "4x4 Mercedes-Benz Zetros Trial Truck",
+     "year": 2021,
+     "theme_id": 1,
+     "num_parts": 2131,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42129-1.jpg"
+   },
+   {
+     "id": 131,
+     "set_num": "10225-1",
+     "name": "R2-D2",
+     "year": 2012,
+     "theme_id": 171,
+     "num_parts": 2127,
+     "theme": "Ultimate Collector Series",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10225-1.jpg"
+   },
+   {
+     "id": 132,
+     "set_num": "910009-1",
+     "name": "Modular LEGO Store",
+     "year": 2022,
+     "theme_id": 719,
+     "num_parts": 2124,
+     "theme": "BrickLink Designer Program",
+     "img_url": "https://cdn.rebrickable.com/media/sets/910009-1.jpg"
+   },
+   {
+     "id": 133,
+     "set_num": "910003-1",
+     "name": "Mountain Windmill",
+     "year": 2022,
+     "theme_id": 719,
+     "num_parts": 2087,
+     "theme": "BrickLink Designer Program",
+     "img_url": "https://cdn.rebrickable.com/media/sets/910003-1.jpg"
+   },
+   {
+     "id": 134,
+     "set_num": "21338-1",
+     "name": "A-Frame Cabin",
+     "year": 2023,
+     "theme_id": 576,
+     "num_parts": 2082,
+     "theme": "LEGO Ideas and CUUSOO",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21338-1.jpg"
+   },
+   {
+     "id": 135,
+     "set_num": "21327-1",
+     "name": "Typewriter",
+     "year": 2021,
+     "theme_id": 576,
+     "num_parts": 2080,
+     "theme": "LEGO Ideas and CUUSOO",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21327-1.jpg"
+   },
+   {
+     "id": 136,
+     "set_num": "21335-1",
+     "name": "Motorized Lighthouse",
+     "year": 2022,
+     "theme_id": 576,
+     "num_parts": 2065,
+     "theme": "LEGO Ideas and CUUSOO",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21335-1.jpg"
+   },
+   {
+     "id": 137,
+     "set_num": "10228-1",
+     "name": "Haunted House",
+     "year": 2012,
+     "theme_id": 558,
+     "num_parts": 2064,
+     "theme": "Monster Fighters",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10228-1.jpg"
+   },
+   {
+     "id": 138,
+     "set_num": "71395-1",
+     "name": "Super Mario 64 Question Mark Block",
+     "year": 2021,
+     "theme_id": 690,
+     "num_parts": 2064,
+     "theme": "Super Mario",
+     "img_url": "https://cdn.rebrickable.com/media/sets/71395-1.jpg"
+   },
+   {
+     "id": 139,
+     "set_num": "21310-1",
+     "name": "Old Fishing Store",
+     "year": 2017,
+     "theme_id": 576,
+     "num_parts": 2057,
+     "theme": "LEGO Ideas and CUUSOO",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21310-1.jpg"
+   },
+   {
+     "id": 140,
+     "set_num": "76240-1",
+     "name": "Batmobile Tumbler",
+     "year": 2021,
+     "theme_id": 698,
+     "num_parts": 2049,
+     "theme": "UCS",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76240-1.jpg"
+   },
+   {
+     "id": 141,
+     "set_num": "10292-1",
+     "name": "Friends - The Apartments",
+     "year": 2021,
+     "theme_id": 721,
+     "num_parts": 2048,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10292-1.jpg"
+   },
+   {
+     "id": 142,
+     "set_num": "8110-1",
+     "name": "Unimog U400",
+     "year": 2011,
+     "theme_id": 1,
+     "num_parts": 2048,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/8110-1.jpg"
+   },
+   {
+     "id": 143,
+     "set_num": "10218-1",
+     "name": "Pet Shop",
+     "year": 2011,
+     "theme_id": 155,
+     "num_parts": 2034,
+     "theme": "Modular Buildings",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10218-1.jpg"
+   },
+   {
+     "id": 144,
+     "set_num": "10217-1",
+     "name": "Diagon Alley",
+     "year": 2011,
+     "theme_id": 246,
+     "num_parts": 2032,
+     "theme": "Harry Potter",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10217-1.jpg"
+   },
+   {
+     "id": 145,
+     "set_num": "70751-1",
+     "name": "Temple of Airjitzu",
+     "year": 2015,
+     "theme_id": 435,
+     "num_parts": 2030,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70751-1.jpg"
+   },
+   {
+     "id": 146,
+     "set_num": "21056-1",
+     "name": "Taj Mahal",
+     "year": 2021,
+     "theme_id": 252,
+     "num_parts": 2024,
+     "theme": "Architecture",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21056-1.jpg"
+   },
+   {
+     "id": 147,
+     "set_num": "45120-1",
+     "name": "LearnToLearn Core set",
+     "year": 2014,
+     "theme_id": 507,
+     "num_parts": 2018,
+     "theme": "Educational and Dacta",
+     "img_url": "https://cdn.rebrickable.com/media/sets/45120-1.jpg"
+   },
+   {
+     "id": 148,
+     "set_num": "19001-1",
+     "name": "L??wenstein Castle",
+     "year": 2019,
+     "theme_id": 719,
+     "num_parts": 2017,
+     "theme": "BrickLink Designer Program",
+     "img_url": "https://cdn.rebrickable.com/media/sets/19001-1.jpg"
+   },
+   {
+     "id": 149,
+     "set_num": "42128-1",
+     "name": "Heavy Duty Tow Truck",
+     "year": 2021,
+     "theme_id": 1,
+     "num_parts": 2017,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42128-1.jpg"
+   },
+   {
+     "id": 150,
+     "set_num": "41732-1",
+     "name": "Downtown Flower and Design Stores",
+     "year": 2023,
+     "theme_id": 494,
+     "num_parts": 2010,
+     "theme": "Friends",
+     "img_url": "https://cdn.rebrickable.com/media/sets/41732-1.jpg"
+   },
+   {
+     "id": 151,
+     "set_num": "42145-1",
+     "name": "Airbus H175 Rescue Helicopter",
+     "year": 2022,
+     "theme_id": 1,
+     "num_parts": 2001,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42145-1.jpg"
+   },
+   {
+     "id": 152,
+     "set_num": "31206-1",
+     "name": "The Rolling Stones",
+     "year": 2022,
+     "theme_id": 709,
+     "num_parts": 1998,
+     "theme": "LEGO Art",
+     "img_url": "https://cdn.rebrickable.com/media/sets/31206-1.jpg"
+   },
+   {
+     "id": 153,
+     "set_num": "75060-1",
+     "name": "Slave I",
+     "year": 2015,
+     "theme_id": 171,
+     "num_parts": 1996,
+     "theme": "Ultimate Collector Series",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75060-1.jpg"
+   },
+   {
+     "id": 154,
+     "set_num": "10236-1",
+     "name": "Ewok Village",
+     "year": 2013,
+     "theme_id": 171,
+     "num_parts": 1990,
+     "theme": "Ultimate Collector Series",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10236-1.jpg"
+   },
+   {
+     "id": 155,
+     "set_num": "42054-1",
+     "name": "CLAAS XERION 5000 TRAC VC",
+     "year": 2016,
+     "theme_id": 1,
+     "num_parts": 1976,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42054-1.jpg"
+   },
+   {
+     "id": 156,
+     "set_num": "21309-1",
+     "name": "NASA Apollo Saturn V",
+     "year": 2017,
+     "theme_id": 576,
+     "num_parts": 1969,
+     "theme": "LEGO Ideas and CUUSOO",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21309-1.jpg"
+   },
+   {
+     "id": 157,
+     "set_num": "92176-1",
+     "name": "NASA Apollo Saturn V",
+     "year": 2020,
+     "theme_id": 576,
+     "num_parts": 1969,
+     "theme": "LEGO Ideas and CUUSOO",
+     "img_url": "https://cdn.rebrickable.com/media/sets/92176-1.jpg"
+   },
+   {
+     "id": 158,
+     "set_num": "75181-1",
+     "name": "Y-Wing Starfighter",
+     "year": 2018,
+     "theme_id": 171,
+     "num_parts": 1967,
+     "theme": "Ultimate Collector Series",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75181-1.jpg"
+   },
+   {
+     "id": 159,
+     "set_num": "910001-1",
+     "name": "Castle in the Forest",
+     "year": 2021,
+     "theme_id": 719,
+     "num_parts": 1953,
+     "theme": "BrickLink Designer Program",
+     "img_url": "https://cdn.rebrickable.com/media/sets/910001-1.jpg"
+   },
+   {
+     "id": 160,
+     "set_num": "80024-1",
+     "name": "The Legendary Flower Fruit Mountain",
+     "year": 2021,
+     "theme_id": 693,
+     "num_parts": 1949,
+     "theme": "Monkie Kid",
+     "img_url": "https://cdn.rebrickable.com/media/sets/80024-1.jpg"
+   },
+   {
+     "id": 161,
+     "set_num": "80013-1",
+     "name": "Monkie Kid's Team Secret HQ",
+     "year": 2020,
+     "theme_id": 693,
+     "num_parts": 1921,
+     "theme": "Monkie Kid",
+     "img_url": "https://cdn.rebrickable.com/media/sets/80013-1.jpg"
+   },
+   {
+     "id": 162,
+     "set_num": "42130-1",
+     "name": "BMW Motorrad M 1000 RR",
+     "year": 2022,
+     "theme_id": 1,
+     "num_parts": 1918,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42130-1.jpg"
+   },
+   {
+     "id": 163,
+     "set_num": "9389-1",
+     "name": "Community Starter Set",
+     "year": 2012,
+     "theme_id": 507,
+     "num_parts": 1907,
+     "theme": "Educational and Dacta",
+     "img_url": "https://cdn.rebrickable.com/media/sets/9389-1.jpg"
+   },
+   {
+     "id": 164,
+     "set_num": "76193-1",
+     "name": "The Guardians‚Äô Ship",
+     "year": 2021,
+     "theme_id": 702,
+     "num_parts": 1901,
+     "theme": "Avengers",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76193-1.jpg"
+   },
+   {
+     "id": 165,
+     "set_num": "75341-1",
+     "name": "Luke Skywalker's Landspeeder",
+     "year": 2022,
+     "theme_id": 171,
+     "num_parts": 1890,
+     "theme": "Ultimate Collector Series",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75341-1.jpg"
+   },
+   {
+     "id": 166,
+     "set_num": "76023-1",
+     "name": "The Tumbler",
+     "year": 2014,
+     "theme_id": 698,
+     "num_parts": 1873,
+     "theme": "UCS",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76023-1.jpg"
+   },
+   {
+     "id": 167,
+     "set_num": "10300-1",
+     "name": "Back to the Future Time Machine",
+     "year": 2022,
+     "theme_id": 721,
+     "num_parts": 1872,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10300-1.jpg"
+   },
+   {
+     "id": 168,
+     "set_num": "42070-1",
+     "name": "6x6 All Terrain Tow Truck",
+     "year": 2017,
+     "theme_id": 1,
+     "num_parts": 1862,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42070-1.jpg"
+   },
+   {
+     "id": 169,
+     "set_num": "70839-1",
+     "name": "The Rexcelsior!",
+     "year": 2019,
+     "theme_id": 670,
+     "num_parts": 1826,
+     "theme": "The LEGO Movie II",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70839-1.jpg"
+   },
+   {
+     "id": 170,
+     "set_num": "31208-1",
+     "name": "Hokusai - The Great Wave",
+     "year": 2023,
+     "theme_id": 709,
+     "num_parts": 1810,
+     "theme": "LEGO Art",
+     "img_url": "https://cdn.rebrickable.com/media/sets/31208-1.jpg"
+   },
+   {
+     "id": 171,
+     "set_num": "11033-1",
+     "name": "Creative Fantasy Universe",
+     "year": 2023,
+     "theme_id": 621,
+     "num_parts": 1800,
+     "theme": "Classic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/11033-1.jpg"
+   },
+   {
+     "id": 172,
+     "set_num": "80107-1",
+     "name": "Spring Lantern Festival",
+     "year": 2021,
+     "theme_id": 686,
+     "num_parts": 1798,
+     "theme": "Chinese Traditional Festivals",
+     "img_url": "https://cdn.rebrickable.com/media/sets/80107-1.jpg"
+   },
+   {
+     "id": 173,
+     "set_num": "71705-1",
+     "name": "Destiny's Bounty",
+     "year": 2020,
+     "theme_id": 435,
+     "num_parts": 1783,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/71705-1.jpg"
+   },
+   {
+     "id": 174,
+     "set_num": "75244-1",
+     "name": "Tantive IV",
+     "year": 2019,
+     "theme_id": 158,
+     "num_parts": 1772,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75244-1.jpg"
+   },
+   {
+     "id": 175,
+     "set_num": "75255-1",
+     "name": "Yoda",
+     "year": 2019,
+     "theme_id": 158,
+     "num_parts": 1771,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75255-1.jpg"
+   },
+   {
+     "id": 176,
+     "set_num": "21046-1",
+     "name": "Empire State Building",
+     "year": 2019,
+     "theme_id": 252,
+     "num_parts": 1767,
+     "theme": "Architecture",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21046-1.jpg"
+   },
+   {
+     "id": 177,
+     "set_num": "10244-1",
+     "name": "Fairground Mixer",
+     "year": 2014,
+     "theme_id": 673,
+     "num_parts": 1745,
+     "theme": "Creator Expert",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10244-1.jpg"
+   },
+   {
+     "id": 178,
+     "set_num": "43179-1",
+     "name": "Mickey Mouse & Minnie Mouse",
+     "year": 2020,
+     "theme_id": 608,
+     "num_parts": 1739,
+     "theme": "Disney",
+     "img_url": "https://cdn.rebrickable.com/media/sets/43179-1.jpg"
+   },
+   {
+     "id": 179,
+     "set_num": "80045-1",
+     "name": "Monkey King Ultra Mech",
+     "year": 2023,
+     "theme_id": 693,
+     "num_parts": 1712,
+     "theme": "Monkie Kid",
+     "img_url": "https://cdn.rebrickable.com/media/sets/80045-1.jpg"
+   },
+   {
+     "id": 180,
+     "set_num": "43197-1",
+     "name": "The Ice Castle",
+     "year": 2021,
+     "theme_id": 687,
+     "num_parts": 1709,
+     "theme": "Frozen",
+     "img_url": "https://cdn.rebrickable.com/media/sets/43197-1.jpg"
+   },
+   {
+     "id": 181,
+     "set_num": "75144-1",
+     "name": "Snowspeeder",
+     "year": 2017,
+     "theme_id": 171,
+     "num_parts": 1703,
+     "theme": "Ultimate Collector Series",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75144-1.jpg"
+   },
+   {
+     "id": 182,
+     "set_num": "11022-1",
+     "name": "Space Mission",
+     "year": 2022,
+     "theme_id": 621,
+     "num_parts": 1700,
+     "theme": "Classic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/11022-1.jpg"
+   },
+   {
+     "id": 183,
+     "set_num": "10258-1",
+     "name": "London Bus",
+     "year": 2017,
+     "theme_id": 673,
+     "num_parts": 1686,
+     "theme": "Creator Expert",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10258-1.jpg"
+   },
+   {
+     "id": 184,
+     "set_num": "21042-1",
+     "name": "Statue of Liberty",
+     "year": 2018,
+     "theme_id": 252,
+     "num_parts": 1685,
+     "theme": "Architecture",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21042-1.jpg"
+   },
+   {
+     "id": 185,
+     "set_num": "75095-1",
+     "name": "TIE Fighter",
+     "year": 2015,
+     "theme_id": 171,
+     "num_parts": 1685,
+     "theme": "Ultimate Collector Series",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75095-1.jpg"
+   },
+   {
+     "id": 186,
+     "set_num": "60097-1",
+     "name": "City Square",
+     "year": 2015,
+     "theme_id": 63,
+     "num_parts": 1683,
+     "theme": "Traffic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/60097-1.jpg"
+   },
+   {
+     "id": 187,
+     "set_num": "41704-1",
+     "name": "Main Street Building",
+     "year": 2022,
+     "theme_id": 494,
+     "num_parts": 1682,
+     "theme": "Friends",
+     "img_url": "https://cdn.rebrickable.com/media/sets/41704-1.jpg"
+   },
+   {
+     "id": 188,
+     "set_num": "10290-1",
+     "name": "Pickup Truck",
+     "year": 2021,
+     "theme_id": 721,
+     "num_parts": 1678,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10290-1.jpg"
+   },
+   {
+     "id": 189,
+     "set_num": "42125-1",
+     "name": "Ferrari 488 GTE \"AF Corse #51\"",
+     "year": 2021,
+     "theme_id": 1,
+     "num_parts": 1677,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42125-1.jpg"
+   },
+   {
+     "id": 190,
+     "set_num": "76393-1",
+     "name": "Harry Potter & Hermione Granger",
+     "year": 2021,
+     "theme_id": 246,
+     "num_parts": 1673,
+     "theme": "Harry Potter",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76393-1.jpg"
+   },
+   {
+     "id": 191,
+     "set_num": "75275-1",
+     "name": "A-Wing Starfighter",
+     "year": 2020,
+     "theme_id": 171,
+     "num_parts": 1672,
+     "theme": "Ultimate Collector Series",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75275-1.jpg"
+   },
+   {
+     "id": 192,
+     "set_num": "70655-1",
+     "name": "Dragon Pit",
+     "year": 2018,
+     "theme_id": 435,
+     "num_parts": 1669,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70655-1.jpg"
+   },
+   {
+     "id": 193,
+     "set_num": "80105-1",
+     "name": "Chinese New Year Temple Fair",
+     "year": 2020,
+     "theme_id": 686,
+     "num_parts": 1664,
+     "theme": "Chinese Traditional Festivals",
+     "img_url": "https://cdn.rebrickable.com/media/sets/80105-1.jpg"
+   },
+   {
+     "id": 194,
+     "set_num": "80111-1",
+     "name": "Lunar New Year Parade",
+     "year": 2022,
+     "theme_id": 686,
+     "num_parts": 1653,
+     "theme": "Chinese Traditional Festivals",
+     "img_url": "https://cdn.rebrickable.com/media/sets/80111-1.jpg"
+   },
+   {
+     "id": 195,
+     "set_num": "42030-1",
+     "name": "Remote-Controlled Volvo L350F Wheel Loader",
+     "year": 2014,
+     "theme_id": 1,
+     "num_parts": 1636,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42030-1.jpg"
+   },
+   {
+     "id": 196,
+     "set_num": "42113-1",
+     "name": "Bell Boeing V-22 Osprey",
+     "year": 2020,
+     "theme_id": 1,
+     "num_parts": 1636,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42113-1.jpg"
+   },
+   {
+     "id": 197,
+     "set_num": "80012-1",
+     "name": "Monkey King Warrior Mech",
+     "year": 2020,
+     "theme_id": 693,
+     "num_parts": 1635,
+     "theme": "Monkie Kid",
+     "img_url": "https://cdn.rebrickable.com/media/sets/80012-1.jpg"
+   },
+   {
+     "id": 198,
+     "set_num": "70912-1",
+     "name": "Arkham Asylum",
+     "year": 2017,
+     "theme_id": 708,
+     "num_parts": 1622,
+     "theme": "The LEGO Batman Movie",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70912-1.jpg"
+   },
+   {
+     "id": 199,
+     "set_num": "10937-1",
+     "name": "Batman: Arkham Asylum Breakout",
+     "year": 2012,
+     "theme_id": 697,
+     "num_parts": 1621,
+     "theme": "Batman",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10937-1.jpg"
+   },
+   {
+     "id": 200,
+     "set_num": "910010-1",
+     "name": "Great Fishing Boat",
+     "year": 2021,
+     "theme_id": 719,
+     "num_parts": 1609,
+     "theme": "BrickLink Designer Program",
+     "img_url": "https://cdn.rebrickable.com/media/sets/910010-1.jpg"
+   },
+   {
+     "id": 201,
+     "set_num": "21334-1",
+     "name": "Jazz Quartet",
+     "year": 2022,
+     "theme_id": 576,
+     "num_parts": 1606,
+     "theme": "LEGO Ideas and CUUSOO",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21334-1.jpg"
+   },
+   {
+     "id": 202,
+     "set_num": "11020-1",
+     "name": "Build Together",
+     "year": 2022,
+     "theme_id": 621,
+     "num_parts": 1601,
+     "theme": "Classic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/11020-1.jpg"
+   },
+   {
+     "id": 203,
+     "set_num": "10654-1",
+     "name": "XL Creative Brick Box",
+     "year": 2016,
+     "theme_id": 621,
+     "num_parts": 1600,
+     "theme": "Classic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10654-1.jpg"
+   },
+   {
+     "id": 204,
+     "set_num": "10664-1",
+     "name": "Creative Tower",
+     "year": 2013,
+     "theme_id": 35,
+     "num_parts": 1600,
+     "theme": "Bricks & More",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10664-1.jpg"
+   },
+   {
+     "id": 205,
+     "set_num": "21128-1",
+     "name": "The Village",
+     "year": 2016,
+     "theme_id": 577,
+     "num_parts": 1600,
+     "theme": "Minecraft",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21128-1.jpg"
+   },
+   {
+     "id": 206,
+     "set_num": "80044-1",
+     "name": "Monkie Kid's Team Hideout",
+     "year": 2023,
+     "theme_id": 693,
+     "num_parts": 1589,
+     "theme": "Monkie Kid",
+     "img_url": "https://cdn.rebrickable.com/media/sets/80044-1.jpg"
+   },
+   {
+     "id": 207,
+     "set_num": "41999-1",
+     "name": "4 x 4 Crawler Exclusive Edition",
+     "year": 2013,
+     "theme_id": 1,
+     "num_parts": 1584,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/41999-1.jpg"
+   },
+   {
+     "id": 208,
+     "set_num": "42096-1",
+     "name": "Porsche 911 RSR",
+     "year": 2019,
+     "theme_id": 1,
+     "num_parts": 1580,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42096-1.jpg"
+   },
+   {
+     "id": 209,
+     "set_num": "10223-1",
+     "name": "Kingdoms Joust",
+     "year": 2012,
+     "theme_id": 196,
+     "num_parts": 1575,
+     "theme": "Kingdoms",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10223-1.jpg"
+   },
+   {
+     "id": 210,
+     "set_num": "41101-1",
+     "name": "Heartlake Grand Hotel",
+     "year": 2015,
+     "theme_id": 494,
+     "num_parts": 1572,
+     "theme": "Friends",
+     "img_url": "https://cdn.rebrickable.com/media/sets/41101-1.jpg"
+   },
+   {
+     "id": 211,
+     "set_num": "10240-1",
+     "name": "Red Five X-Wing Starfighter",
+     "year": 2013,
+     "theme_id": 171,
+     "num_parts": 1558,
+     "theme": "Ultimate Collector Series",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10240-1.jpg"
+   },
+   {
+     "id": 212,
+     "set_num": "77015-1",
+     "name": "Temple of the Golden Idol",
+     "year": 2023,
+     "theme_id": 264,
+     "num_parts": 1545,
+     "theme": "Indiana Jones",
+     "img_url": "https://cdn.rebrickable.com/media/sets/77015-1.jpg"
+   },
+   {
+     "id": 213,
+     "set_num": "80109-1",
+     "name": "Lunar New Year Ice Festival",
+     "year": 2021,
+     "theme_id": 686,
+     "num_parts": 1519,
+     "theme": "Chinese Traditional Festivals",
+     "img_url": "https://cdn.rebrickable.com/media/sets/80109-1.jpg"
+   },
+   {
+     "id": 214,
+     "set_num": "10241-1",
+     "name": "Maersk Line Triple-E",
+     "year": 2014,
+     "theme_id": 673,
+     "num_parts": 1518,
+     "theme": "Creator Expert",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10241-1.jpg"
+   },
+   {
+     "id": 215,
+     "set_num": "60271-1",
+     "name": "Main Square",
+     "year": 2020,
+     "theme_id": 52,
+     "num_parts": 1517,
+     "theme": "City",
+     "img_url": "https://cdn.rebrickable.com/media/sets/60271-1.jpg"
+   },
+   {
+     "id": 216,
+     "set_num": "10308-1",
+     "name": "Holiday Main Street",
+     "year": 2022,
+     "theme_id": 227,
+     "num_parts": 1516,
+     "theme": "Christmas",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10308-1.jpg"
+   },
+   {
+     "id": 217,
+     "set_num": "10302-1",
+     "name": "Optimus Prime",
+     "year": 2022,
+     "theme_id": 721,
+     "num_parts": 1508,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10302-1.jpg"
+   },
+   {
+     "id": 218,
+     "set_num": "11717-1",
+     "name": "Bricks Bricks Plates",
+     "year": 2020,
+     "theme_id": 621,
+     "num_parts": 1504,
+     "theme": "Classic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/11717-1.jpg"
+   },
+   {
+     "id": 219,
+     "set_num": "10697-1",
+     "name": "XXXL Box",
+     "year": 2015,
+     "theme_id": 621,
+     "num_parts": 1500,
+     "theme": "Classic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10697-1.jpg"
+   },
+   {
+     "id": 220,
+     "set_num": "10717-1",
+     "name": "Bricks Bricks Bricks",
+     "year": 2018,
+     "theme_id": 621,
+     "num_parts": 1500,
+     "theme": "Classic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10717-1.jpg"
+   },
+   {
+     "id": 221,
+     "set_num": "11011-1",
+     "name": "Bricks and Animals",
+     "year": 2020,
+     "theme_id": 621,
+     "num_parts": 1500,
+     "theme": "Classic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/11011-1.jpg"
+   },
+   {
+     "id": 222,
+     "set_num": "19004-1",
+     "name": "Wild West Saloon",
+     "year": 2019,
+     "theme_id": 719,
+     "num_parts": 1497,
+     "theme": "BrickLink Designer Program",
+     "img_url": "https://cdn.rebrickable.com/media/sets/19004-1.jpg"
+   },
+   {
+     "id": 223,
+     "set_num": "4000038-1",
+     "name": "LEGO Campus",
+     "year": 2022,
+     "theme_id": 252,
+     "num_parts": 1494,
+     "theme": "Architecture",
+     "img_url": "https://cdn.rebrickable.com/media/sets/4000038-1.jpg"
+   },
+   {
+     "id": 224,
+     "set_num": "10229-1",
+     "name": "Winter Village Cottage",
+     "year": 2012,
+     "theme_id": 227,
+     "num_parts": 1492,
+     "theme": "Christmas",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10229-1.jpg"
+   },
+   {
+     "id": 225,
+     "set_num": "10227-1",
+     "name": "B-wing Starfighter",
+     "year": 2012,
+     "theme_id": 171,
+     "num_parts": 1487,
+     "theme": "Ultimate Collector Series",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10227-1.jpg"
+   },
+   {
+     "id": 226,
+     "set_num": "21054-1",
+     "name": "The White House",
+     "year": 2020,
+     "theme_id": 252,
+     "num_parts": 1483,
+     "theme": "Architecture",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21054-1.jpg"
+   },
+   {
+     "id": 227,
+     "set_num": "10267-1",
+     "name": "Gingerbread House",
+     "year": 2019,
+     "theme_id": 228,
+     "num_parts": 1477,
+     "theme": "Creator",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10267-1.jpg"
+   },
+   {
+     "id": 228,
+     "set_num": "21058-1",
+     "name": "Great Pyramid of Giza",
+     "year": 2022,
+     "theme_id": 252,
+     "num_parts": 1476,
+     "theme": "Architecture",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21058-1.jpg"
+   },
+   {
+     "id": 229,
+     "set_num": "70425-1",
+     "name": "Newbury Haunted High School",
+     "year": 2019,
+     "theme_id": 676,
+     "num_parts": 1475,
+     "theme": "Hidden Side",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70425-1.jpg"
+   },
+   {
+     "id": 230,
+     "set_num": "10265-1",
+     "name": "Ford Mustang",
+     "year": 2019,
+     "theme_id": 673,
+     "num_parts": 1471,
+     "theme": "Creator Expert",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10265-1.jpg"
+   },
+   {
+     "id": 231,
+     "set_num": "80023-1",
+     "name": "Monkie Kid's Team Dronecopter",
+     "year": 2021,
+     "theme_id": 693,
+     "num_parts": 1471,
+     "theme": "Monkie Kid",
+     "img_url": "https://cdn.rebrickable.com/media/sets/80023-1.jpg"
+   },
+   {
+     "id": 232,
+     "set_num": "42154-1",
+     "name": "2022 Ford GT",
+     "year": 2023,
+     "theme_id": 1,
+     "num_parts": 1466,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42154-1.jpg"
+   },
+   {
+     "id": 233,
+     "set_num": "10295-1",
+     "name": "Porsche 911 Turbo & 911 Targa",
+     "year": 2021,
+     "theme_id": 721,
+     "num_parts": 1458,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10295-1.jpg"
+   },
+   {
+     "id": 234,
+     "set_num": "10304-1",
+     "name": "Chevrolet Camaro Z/28 1969",
+     "year": 2022,
+     "theme_id": 721,
+     "num_parts": 1456,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10304-1.jpg"
+   },
+   {
+     "id": 235,
+     "set_num": "70917-1",
+     "name": "The Ultimate Batmobile",
+     "year": 2017,
+     "theme_id": 708,
+     "num_parts": 1456,
+     "theme": "The LEGO Batman Movie",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70917-1.jpg"
+   },
+   {
+     "id": 236,
+     "set_num": "40174-1",
+     "name": "LEGO Chess",
+     "year": 2017,
+     "theme_id": 301,
+     "num_parts": 1450,
+     "theme": "Other",
+     "img_url": "https://cdn.rebrickable.com/media/sets/40174-1.jpg"
+   },
+   {
+     "id": 237,
+     "set_num": "10293-1",
+     "name": "Santa's Visit",
+     "year": 2021,
+     "theme_id": 227,
+     "num_parts": 1445,
+     "theme": "Christmas",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10293-1.jpg"
+   },
+   {
+     "id": 238,
+     "set_num": "19008-1",
+     "name": "The LEGO Story",
+     "year": 2019,
+     "theme_id": 719,
+     "num_parts": 1443,
+     "theme": "BrickLink Designer Program",
+     "img_url": "https://cdn.rebrickable.com/media/sets/19008-1.jpg"
+   },
+   {
+     "id": 239,
+     "set_num": "42141-1",
+     "name": "McLaren Formula 1 Team 2022 (First Edition)",
+     "year": 2022,
+     "theme_id": 1,
+     "num_parts": 1432,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42141-1.jpg"
+   },
+   {
+     "id": 240,
+     "set_num": "42141-2",
+     "name": "McLaren Formula 1 Team 2022 (Second Edition)",
+     "year": 2022,
+     "theme_id": 1,
+     "num_parts": 1432,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42141-2.jpg"
+   },
+   {
+     "id": 241,
+     "set_num": "80016-1",
+     "name": "The Flaming Foundry",
+     "year": 2020,
+     "theme_id": 693,
+     "num_parts": 1429,
+     "theme": "Monkie Kid",
+     "img_url": "https://cdn.rebrickable.com/media/sets/80016-1.jpg"
+   },
+   {
+     "id": 242,
+     "set_num": "31120-1",
+     "name": "Medieval Castle",
+     "year": 2021,
+     "theme_id": 672,
+     "num_parts": 1426,
+     "theme": "Creator 3-in-1",
+     "img_url": "https://cdn.rebrickable.com/media/sets/31120-1.jpg"
+   },
+   {
+     "id": 243,
+     "set_num": "70357-1",
+     "name": "Knighton Castle",
+     "year": 2017,
+     "theme_id": 605,
+     "num_parts": 1426,
+     "theme": "Nexo Knights",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70357-1.jpg"
+   },
+   {
+     "id": 244,
+     "set_num": "75190-1",
+     "name": "First Order Star Destroyer",
+     "year": 2017,
+     "theme_id": 158,
+     "num_parts": 1416,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75190-1.jpg"
+   },
+   {
+     "id": 245,
+     "set_num": "75212-1",
+     "name": "Kessel Run Millennium Falcon",
+     "year": 2018,
+     "theme_id": 158,
+     "num_parts": 1414,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75212-1.jpg"
+   },
+   {
+     "id": 246,
+     "set_num": "45570-1",
+     "name": "Space Challenge Set",
+     "year": 2014,
+     "theme_id": 518,
+     "num_parts": 1412,
+     "theme": "Mindstorms",
+     "img_url": "https://cdn.rebrickable.com/media/sets/45570-1.jpg"
+   },
+   {
+     "id": 247,
+     "set_num": "80038-1",
+     "name": "Monkie Kid's Team Van",
+     "year": 2022,
+     "theme_id": 693,
+     "num_parts": 1406,
+     "theme": "Monkie Kid",
+     "img_url": "https://cdn.rebrickable.com/media/sets/80038-1.jpg"
+   },
+   {
+     "id": 248,
+     "set_num": "70617-1",
+     "name": "Temple of The Ultimate Ultimate Weapon",
+     "year": 2017,
+     "theme_id": 616,
+     "num_parts": 1403,
+     "theme": "The LEGO Ninjago Movie",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70617-1.jpg"
+   },
+   {
+     "id": 249,
+     "set_num": "42042-1",
+     "name": "Crawler Crane",
+     "year": 2015,
+     "theme_id": 1,
+     "num_parts": 1400,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42042-1.jpg"
+   },
+   {
+     "id": 250,
+     "set_num": "71767-1",
+     "name": "Ninja Dojo Temple",
+     "year": 2022,
+     "theme_id": 435,
+     "num_parts": 1396,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/71767-1.jpg"
+   },
+   {
+     "id": 251,
+     "set_num": "19006-1",
+     "name": "Eight Studs",
+     "year": 2019,
+     "theme_id": 719,
+     "num_parts": 1394,
+     "theme": "BrickLink Designer Program",
+     "img_url": "https://cdn.rebrickable.com/media/sets/19006-1.jpg"
+   },
+   {
+     "id": 252,
+     "set_num": "80028-1",
+     "name": "The Bone Demon",
+     "year": 2021,
+     "theme_id": 693,
+     "num_parts": 1383,
+     "theme": "Monkie Kid",
+     "img_url": "https://cdn.rebrickable.com/media/sets/80028-1.jpg"
+   },
+   {
+     "id": 253,
+     "set_num": "910011-1",
+     "name": "1950s Diner",
+     "year": 2023,
+     "theme_id": 719,
+     "num_parts": 1380,
+     "theme": "BrickLink Designer Program",
+     "img_url": "https://cdn.rebrickable.com/media/sets/910011-1.jpg"
+   },
+   {
+     "id": 254,
+     "set_num": "42126-1",
+     "name": "Ford F-150 Raptor",
+     "year": 2021,
+     "theme_id": 1,
+     "num_parts": 1379,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42126-1.jpg"
+   },
+   {
+     "id": 255,
+     "set_num": "75189-1",
+     "name": "First Order Heavy Assault Walker",
+     "year": 2017,
+     "theme_id": 158,
+     "num_parts": 1376,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75189-1.jpg"
+   },
+   {
+     "id": 256,
+     "set_num": "21324-1",
+     "name": "123 Sesame Street",
+     "year": 2020,
+     "theme_id": 576,
+     "num_parts": 1367,
+     "theme": "LEGO Ideas and CUUSOO",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21324-1.jpg"
+   },
+   {
+     "id": 257,
+     "set_num": "9474-1",
+     "name": "The Battle of Helm‚Äôs Deep",
+     "year": 2012,
+     "theme_id": 566,
+     "num_parts": 1367,
+     "theme": "The Lord of the Rings",
+     "img_url": "https://cdn.rebrickable.com/media/sets/9474-1.jpg"
+   },
+   {
+     "id": 258,
+     "set_num": "19003-1",
+     "name": "Skyline Express",
+     "year": 2019,
+     "theme_id": 719,
+     "num_parts": 1366,
+     "theme": "BrickLink Designer Program",
+     "img_url": "https://cdn.rebrickable.com/media/sets/19003-1.jpg"
+   },
+   {
+     "id": 259,
+     "set_num": "76105-1",
+     "name": "The Hulkbuster: Ultron Edition",
+     "year": 2018,
+     "theme_id": 702,
+     "num_parts": 1363,
+     "theme": "Avengers",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76105-1.jpg"
+   },
+   {
+     "id": 260,
+     "set_num": "42127-1",
+     "name": "The Batman - Batmobile",
+     "year": 2021,
+     "theme_id": 1,
+     "num_parts": 1360,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42127-1.jpg"
+   },
+   {
+     "id": 261,
+     "set_num": "75055-1",
+     "name": "Imperial Star Destroyer",
+     "year": 2014,
+     "theme_id": 158,
+     "num_parts": 1359,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75055-1.jpg"
+   },
+   {
+     "id": 262,
+     "set_num": "10230-1",
+     "name": "Mini Modulars",
+     "year": 2012,
+     "theme_id": 156,
+     "num_parts": 1356,
+     "theme": "Mini",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10230-1.jpg"
+   },
+   {
+     "id": 263,
+     "set_num": "80035-1",
+     "name": "Monkie Kid's Galactic Explorer",
+     "year": 2022,
+     "theme_id": 693,
+     "num_parts": 1356,
+     "theme": "Monkie Kid",
+     "img_url": "https://cdn.rebrickable.com/media/sets/80035-1.jpg"
+   },
+   {
+     "id": 264,
+     "set_num": "9594-1",
+     "name": "Green City Challenge Set",
+     "year": 2011,
+     "theme_id": 518,
+     "num_parts": 1356,
+     "theme": "Mindstorms",
+     "img_url": "https://cdn.rebrickable.com/media/sets/9594-1.jpg"
+   },
+   {
+     "id": 265,
+     "set_num": "10233-1",
+     "name": "Horizon Express",
+     "year": 2013,
+     "theme_id": 673,
+     "num_parts": 1351,
+     "theme": "Creator Expert",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10233-1.jpg"
+   },
+   {
+     "id": 266,
+     "set_num": "75257-1",
+     "name": "Millennium Falcon",
+     "year": 2019,
+     "theme_id": 158,
+     "num_parts": 1351,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75257-1.jpg"
+   },
+   {
+     "id": 267,
+     "set_num": "40346-1",
+     "name": "LEGOLAND Park",
+     "year": 2019,
+     "theme_id": 425,
+     "num_parts": 1336,
+     "theme": "Legoland Parks",
+     "img_url": "https://cdn.rebrickable.com/media/sets/40346-1.jpg"
+   },
+   {
+     "id": 268,
+     "set_num": "75315-1",
+     "name": "Imperial Light Cruiser",
+     "year": 2021,
+     "theme_id": 158,
+     "num_parts": 1336,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75315-1.jpg"
+   },
+   {
+     "id": 269,
+     "set_num": "10220-1",
+     "name": "Volkswagen T1 Camper Van",
+     "year": 2011,
+     "theme_id": 673,
+     "num_parts": 1332,
+     "theme": "Creator Expert",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10220-1.jpg"
+   },
+   {
+     "id": 270,
+     "set_num": "75105-1",
+     "name": "Millennium Falcon",
+     "year": 2015,
+     "theme_id": 158,
+     "num_parts": 1330,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75105-1.jpg"
+   },
+   {
+     "id": 271,
+     "set_num": "42064-1",
+     "name": "Ocean Explorer",
+     "year": 2017,
+     "theme_id": 1,
+     "num_parts": 1327,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42064-1.jpg"
+   },
+   {
+     "id": 272,
+     "set_num": "9398-1",
+     "name": "4 x 4 Crawler",
+     "year": 2012,
+     "theme_id": 1,
+     "num_parts": 1327,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/9398-1.jpg"
+   },
+   {
+     "id": 273,
+     "set_num": "21328-1",
+     "name": "Seinfeld",
+     "year": 2021,
+     "theme_id": 576,
+     "num_parts": 1326,
+     "theme": "LEGO Ideas and CUUSOO",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21328-1.jpg"
+   },
+   {
+     "id": 274,
+     "set_num": "4002021-1",
+     "name": "The Temple of Celebrations",
+     "year": 2021,
+     "theme_id": 599,
+     "num_parts": 1312,
+     "theme": "LEGO Exclusive",
+     "img_url": "https://cdn.rebrickable.com/media/sets/4002021-1.jpg"
+   },
+   {
+     "id": 275,
+     "set_num": "41684-1",
+     "name": "Heartlake City Grand Hotel",
+     "year": 2021,
+     "theme_id": 494,
+     "num_parts": 1309,
+     "theme": "Friends",
+     "img_url": "https://cdn.rebrickable.com/media/sets/41684-1.jpg"
+   },
+   {
+     "id": 276,
+     "set_num": "9397-1",
+     "name": "Logging Truck",
+     "year": 2012,
+     "theme_id": 1,
+     "num_parts": 1308,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/9397-1.jpg"
+   },
+   {
+     "id": 277,
+     "set_num": "19005-1",
+     "name": "Isle of Peril",
+     "year": 2019,
+     "theme_id": 719,
+     "num_parts": 1302,
+     "theme": "BrickLink Designer Program",
+     "img_url": "https://cdn.rebrickable.com/media/sets/19005-1.jpg"
+   },
+   {
+     "id": 278,
+     "set_num": "70146-1",
+     "name": "Flying Phoenix Fire Temple",
+     "year": 2014,
+     "theme_id": 571,
+     "num_parts": 1301,
+     "theme": "Legends of Chima",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70146-1.jpg"
+   },
+   {
+     "id": 279,
+     "set_num": "10262-1",
+     "name": "James Bond Aston Martin DB5",
+     "year": 2018,
+     "theme_id": 673,
+     "num_parts": 1297,
+     "theme": "Creator Expert",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10262-1.jpg"
+   },
+   {
+     "id": 280,
+     "set_num": "42025-1",
+     "name": "Cargo Plane",
+     "year": 2014,
+     "theme_id": 1,
+     "num_parts": 1297,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42025-1.jpg"
+   },
+   {
+     "id": 281,
+     "set_num": "42108-1",
+     "name": "Mobile Crane",
+     "year": 2020,
+     "theme_id": 1,
+     "num_parts": 1292,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42108-1.jpg"
+   },
+   {
+     "id": 282,
+     "set_num": "8070-1",
+     "name": "Supercar",
+     "year": 2011,
+     "theme_id": 1,
+     "num_parts": 1281,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/8070-1.jpg"
+   },
+   {
+     "id": 283,
+     "set_num": "10277-1",
+     "name": "Crocodile Locomotive",
+     "year": 2020,
+     "theme_id": 721,
+     "num_parts": 1279,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10277-1.jpg"
+   },
+   {
+     "id": 284,
+     "set_num": "19002-1",
+     "name": "Antique Fire Engine",
+     "year": 2019,
+     "theme_id": 719,
+     "num_parts": 1279,
+     "theme": "BrickLink Designer Program",
+     "img_url": "https://cdn.rebrickable.com/media/sets/19002-1.jpg"
+   },
+   {
+     "id": 285,
+     "set_num": "60125-1",
+     "name": "Volcano Heavy-Lift Helicopter",
+     "year": 2016,
+     "theme_id": 52,
+     "num_parts": 1277,
+     "theme": "City",
+     "img_url": "https://cdn.rebrickable.com/media/sets/60125-1.jpg"
+   },
+   {
+     "id": 286,
+     "set_num": "42008-1",
+     "name": "Service Truck",
+     "year": 2013,
+     "theme_id": 1,
+     "num_parts": 1276,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42008-1.jpg"
+   },
+   {
+     "id": 287,
+     "set_num": "41375-1",
+     "name": "Heartlake City Amusement Pier",
+     "year": 2019,
+     "theme_id": 494,
+     "num_parts": 1267,
+     "theme": "Friends",
+     "img_url": "https://cdn.rebrickable.com/media/sets/41375-1.jpg"
+   },
+   {
+     "id": 288,
+     "set_num": "75288-1",
+     "name": "AT-AT",
+     "year": 2020,
+     "theme_id": 158,
+     "num_parts": 1267,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75288-1.jpg"
+   },
+   {
+     "id": 289,
+     "set_num": "21326-1",
+     "name": "Winnie the Pooh",
+     "year": 2021,
+     "theme_id": 576,
+     "num_parts": 1265,
+     "theme": "LEGO Ideas and CUUSOO",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21326-1.jpg"
+   },
+   {
+     "id": 290,
+     "set_num": "70738-1",
+     "name": "Final Flight of Destiny's Bounty",
+     "year": 2015,
+     "theme_id": 435,
+     "num_parts": 1264,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70738-1.jpg"
+   },
+   {
+     "id": 291,
+     "set_num": "31109-1",
+     "name": "Pirate Ship",
+     "year": 2020,
+     "theme_id": 672,
+     "num_parts": 1262,
+     "theme": "Creator 3-in-1",
+     "img_url": "https://cdn.rebrickable.com/media/sets/31109-1.jpg"
+   },
+   {
+     "id": 292,
+     "set_num": "10235-1",
+     "name": "Winter Village Market",
+     "year": 2013,
+     "theme_id": 228,
+     "num_parts": 1261,
+     "theme": "Creator",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10235-1.jpg"
+   },
+   {
+     "id": 293,
+     "set_num": "70010-1",
+     "name": "The Lion CHI Temple",
+     "year": 2013,
+     "theme_id": 571,
+     "num_parts": 1259,
+     "theme": "Legends of Chima",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70010-1.jpg"
+   },
+   {
+     "id": 294,
+     "set_num": "70596-1",
+     "name": "Samurai X Cave Chaos",
+     "year": 2016,
+     "theme_id": 435,
+     "num_parts": 1255,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70596-1.jpg"
+   },
+   {
+     "id": 295,
+     "set_num": "10497-1",
+     "name": "Galaxy Explorer",
+     "year": 2022,
+     "theme_id": 721,
+     "num_parts": 1254,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10497-1.jpg"
+   },
+   {
+     "id": 296,
+     "set_num": "7965-1",
+     "name": "Millennium Falcon",
+     "year": 2011,
+     "theme_id": 158,
+     "num_parts": 1254,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/7965-1.jpg"
+   },
+   {
+     "id": 297,
+     "set_num": "21188-1",
+     "name": "The Llama Village",
+     "year": 2022,
+     "theme_id": 577,
+     "num_parts": 1252,
+     "theme": "Minecraft",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21188-1.jpg"
+   },
+   {
+     "id": 298,
+     "set_num": "60162-1",
+     "name": "Jungle Air Drop Helicopter",
+     "year": 2017,
+     "theme_id": 614,
+     "num_parts": 1250,
+     "theme": "Jungle",
+     "img_url": "https://cdn.rebrickable.com/media/sets/60162-1.jpg"
+   },
+   {
+     "id": 299,
+     "set_num": "76153-1",
+     "name": "Avengers Helicarrier",
+     "year": 2020,
+     "theme_id": 702,
+     "num_parts": 1248,
+     "theme": "Avengers",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76153-1.jpg"
+   },
+   {
+     "id": 300,
+     "set_num": "75220-1",
+     "name": "Sandcrawler",
+     "year": 2018,
+     "theme_id": 158,
+     "num_parts": 1239,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75220-1.jpg"
+   },
+   {
+     "id": 301,
+     "set_num": "10219-1",
+     "name": "Maersk Container Train",
+     "year": 2011,
+     "theme_id": 673,
+     "num_parts": 1233,
+     "theme": "Creator Expert",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10219-1.jpg"
+   },
+   {
+     "id": 302,
+     "set_num": "10231-1",
+     "name": "Shuttle Expedition",
+     "year": 2011,
+     "theme_id": 673,
+     "num_parts": 1230,
+     "theme": "Creator Expert",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10231-1.jpg"
+   },
+   {
+     "id": 303,
+     "set_num": "60198-1",
+     "name": "Cargo Train",
+     "year": 2018,
+     "theme_id": 66,
+     "num_parts": 1226,
+     "theme": "Trains",
+     "img_url": "https://cdn.rebrickable.com/media/sets/60198-1.jpg"
+   },
+   {
+     "id": 304,
+     "set_num": "70728-1",
+     "name": "Battle for Ninjago City",
+     "year": 2014,
+     "theme_id": 435,
+     "num_parts": 1224,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70728-1.jpg"
+   },
+   {
+     "id": 305,
+     "set_num": "70678-1",
+     "name": "Castle of the Forsaken Emperor",
+     "year": 2019,
+     "theme_id": 435,
+     "num_parts": 1223,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70678-1.jpg"
+   },
+   {
+     "id": 306,
+     "set_num": "76989-1",
+     "name": "Horizon Forbidden West: Tallneck",
+     "year": 2022,
+     "theme_id": 721,
+     "num_parts": 1222,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76989-1.jpg"
+   },
+   {
+     "id": 307,
+     "set_num": "42039-1",
+     "name": "24 Hours Race Car",
+     "year": 2015,
+     "theme_id": 1,
+     "num_parts": 1219,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42039-1.jpg"
+   },
+   {
+     "id": 308,
+     "set_num": "75106-1",
+     "name": "Imperial Assault Carrier",
+     "year": 2015,
+     "theme_id": 158,
+     "num_parts": 1217,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75106-1.jpg"
+   },
+   {
+     "id": 309,
+     "set_num": "75574-1",
+     "name": "Toruk Makto & Tree of Souls",
+     "year": 2022,
+     "theme_id": 724,
+     "num_parts": 1217,
+     "theme": "Avatar",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75574-1.jpg"
+   },
+   {
+     "id": 310,
+     "set_num": "71408-1",
+     "name": "Peach‚Äôs Castle Expansion Set",
+     "year": 2022,
+     "theme_id": 690,
+     "num_parts": 1216,
+     "theme": "Super Mario",
+     "img_url": "https://cdn.rebrickable.com/media/sets/71408-1.jpg"
+   },
+   {
+     "id": 311,
+     "set_num": "76956-1",
+     "name": "T. rex Breakout",
+     "year": 2022,
+     "theme_id": 602,
+     "num_parts": 1212,
+     "theme": "Jurassic World",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76956-1.jpg"
+   },
+   {
+     "id": 312,
+     "set_num": "21050-1",
+     "name": "Architecture Studio",
+     "year": 2013,
+     "theme_id": 252,
+     "num_parts": 1211,
+     "theme": "Architecture",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21050-1.jpg"
+   },
+   {
+     "id": 313,
+     "set_num": "4002022-1",
+     "name": "10 Years Of Friendship",
+     "year": 2022,
+     "theme_id": 494,
+     "num_parts": 1211,
+     "theme": "Friends",
+     "img_url": "https://cdn.rebrickable.com/media/sets/4002022-1.jpg"
+   },
+   {
+     "id": 314,
+     "set_num": "60200-1",
+     "name": "Capital City",
+     "year": 2018,
+     "theme_id": 63,
+     "num_parts": 1211,
+     "theme": "Traffic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/60200-1.jpg"
+   },
+   {
+     "id": 315,
+     "set_num": "19007-1",
+     "name": "Science Tower",
+     "year": 2019,
+     "theme_id": 719,
+     "num_parts": 1205,
+     "theme": "BrickLink Designer Program",
+     "img_url": "https://cdn.rebrickable.com/media/sets/19007-1.jpg"
+   },
+   {
+     "id": 316,
+     "set_num": "40502-1",
+     "name": "The Brick Moulding Machine",
+     "year": 2021,
+     "theme_id": 599,
+     "num_parts": 1205,
+     "theme": "LEGO Exclusive",
+     "img_url": "https://cdn.rebrickable.com/media/sets/40502-1.jpg"
+   },
+   {
+     "id": 317,
+     "set_num": "70173-1",
+     "name": "Ultra Agents Ocean HQ",
+     "year": 2015,
+     "theme_id": 303,
+     "num_parts": 1203,
+     "theme": "Ultra Agents",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70173-1.jpg"
+   },
+   {
+     "id": 318,
+     "set_num": "70632-1",
+     "name": "Quake Mech",
+     "year": 2017,
+     "theme_id": 616,
+     "num_parts": 1202,
+     "theme": "The LEGO Ninjago Movie",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70632-1.jpg"
+   },
+   {
+     "id": 319,
+     "set_num": "11016-1",
+     "name": "Creative Building Bricks",
+     "year": 2021,
+     "theme_id": 621,
+     "num_parts": 1201,
+     "theme": "Classic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/11016-1.jpg"
+   },
+   {
+     "id": 320,
+     "set_num": "10275-1",
+     "name": "Elf Club House",
+     "year": 2020,
+     "theme_id": 227,
+     "num_parts": 1197,
+     "theme": "Christmas",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10275-1.jpg"
+   },
+   {
+     "id": 321,
+     "set_num": "21045-1",
+     "name": "Trafalgar Square",
+     "year": 2019,
+     "theme_id": 252,
+     "num_parts": 1197,
+     "theme": "Architecture",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21045-1.jpg"
+   },
+   {
+     "id": 322,
+     "set_num": "31132-1",
+     "name": "Viking Ship and the Midgard Serpent",
+     "year": 2022,
+     "theme_id": 672,
+     "num_parts": 1192,
+     "theme": "Creator 3-in-1",
+     "img_url": "https://cdn.rebrickable.com/media/sets/31132-1.jpg"
+   },
+   {
+     "id": 323,
+     "set_num": "70677-1",
+     "name": "Land Bounty",
+     "year": 2019,
+     "theme_id": 435,
+     "num_parts": 1189,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70677-1.jpg"
+   },
+   {
+     "id": 324,
+     "set_num": "21017-1",
+     "name": "Imperial Hotel",
+     "year": 2013,
+     "theme_id": 252,
+     "num_parts": 1188,
+     "theme": "Architecture",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21017-1.jpg"
+   },
+   {
+     "id": 325,
+     "set_num": "70654-1",
+     "name": "Dieselnaut",
+     "year": 2018,
+     "theme_id": 435,
+     "num_parts": 1188,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70654-1.jpg"
+   },
+   {
+     "id": 326,
+     "set_num": "70835-1",
+     "name": "Rex's Rexplorer!",
+     "year": 2019,
+     "theme_id": 670,
+     "num_parts": 1187,
+     "theme": "The LEGO Movie II",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70835-1.jpg"
+   },
+   {
+     "id": 327,
+     "set_num": "70323-1",
+     "name": "Jestro's Volcano Lair",
+     "year": 2016,
+     "theme_id": 605,
+     "num_parts": 1186,
+     "theme": "Nexo Knights",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70323-1.jpg"
+   },
+   {
+     "id": 328,
+     "set_num": "2000451-1",
+     "name": "The Panama Canal",
+     "year": 2016,
+     "theme_id": 507,
+     "num_parts": 1184,
+     "theme": "Educational and Dacta",
+     "img_url": "https://cdn.rebrickable.com/media/sets/2000451-1.jpg"
+   },
+   {
+     "id": 329,
+     "set_num": "71722-1",
+     "name": "Skull Sorcerer's Dungeons",
+     "year": 2020,
+     "theme_id": 435,
+     "num_parts": 1180,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/71722-1.jpg"
+   },
+   {
+     "id": 330,
+     "set_num": "75253-1",
+     "name": "Droid Commander",
+     "year": 2019,
+     "theme_id": 158,
+     "num_parts": 1177,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75253-1.jpg"
+   },
+   {
+     "id": 331,
+     "set_num": "75021-1",
+     "name": "Republic Gunship",
+     "year": 2013,
+     "theme_id": 158,
+     "num_parts": 1175,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75021-1.jpg"
+   },
+   {
+     "id": 332,
+     "set_num": "2507-1",
+     "name": "Fire Temple",
+     "year": 2011,
+     "theme_id": 435,
+     "num_parts": 1174,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/2507-1.jpg"
+   },
+   {
+     "id": 333,
+     "set_num": "10289-1",
+     "name": "Bird of Paradise",
+     "year": 2021,
+     "theme_id": 721,
+     "num_parts": 1173,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10289-1.jpg"
+   },
+   {
+     "id": 334,
+     "set_num": "76389-1",
+     "name": "Hogwarts Chamber Of Secrets",
+     "year": 2021,
+     "theme_id": 246,
+     "num_parts": 1172,
+     "theme": "Harry Potter",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76389-1.jpg"
+   },
+   {
+     "id": 335,
+     "set_num": "80022-1",
+     "name": "Spider Queen's Arachnoid Base",
+     "year": 2021,
+     "theme_id": 693,
+     "num_parts": 1170,
+     "theme": "Monkie Kid",
+     "img_url": "https://cdn.rebrickable.com/media/sets/80022-1.jpg"
+   },
+   {
+     "id": 336,
+     "set_num": "10252-1",
+     "name": "Volkswagen Beetle",
+     "year": 2016,
+     "theme_id": 673,
+     "num_parts": 1167,
+     "theme": "Creator Expert",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10252-1.jpg"
+   },
+   {
+     "id": 337,
+     "set_num": "42081-1",
+     "name": "Volvo Concept Wheel Loader ZEUX",
+     "year": 2018,
+     "theme_id": 1,
+     "num_parts": 1167,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42081-1.jpg"
+   },
+   {
+     "id": 338,
+     "set_num": "10263-1",
+     "name": "Winter Village Fire Station",
+     "year": 2018,
+     "theme_id": 228,
+     "num_parts": 1166,
+     "theme": "Creator",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10263-1.jpg"
+   },
+   {
+     "id": 339,
+     "set_num": "42053-1",
+     "name": "Volvo EW160E",
+     "year": 2016,
+     "theme_id": 1,
+     "num_parts": 1166,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42053-1.jpg"
+   },
+   {
+     "id": 340,
+     "set_num": "21336-1",
+     "name": "The Office",
+     "year": 2022,
+     "theme_id": 576,
+     "num_parts": 1165,
+     "theme": "LEGO Ideas and CUUSOO",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21336-1.jpg"
+   },
+   {
+     "id": 341,
+     "set_num": "41806-1",
+     "name": "Ultimate Party Kit",
+     "year": 2023,
+     "theme_id": 688,
+     "num_parts": 1165,
+     "theme": "DOTS",
+     "img_url": "https://cdn.rebrickable.com/media/sets/41806-1.jpg"
+   },
+   {
+     "id": 342,
+     "set_num": "41058-1",
+     "name": "Heartlake Shopping Mall",
+     "year": 2014,
+     "theme_id": 494,
+     "num_parts": 1162,
+     "theme": "Friends",
+     "img_url": "https://cdn.rebrickable.com/media/sets/41058-1.jpg"
+   },
+   {
+     "id": 343,
+     "set_num": "42112-1",
+     "name": "Cement Mixer",
+     "year": 2020,
+     "theme_id": 1,
+     "num_parts": 1161,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42112-1.jpg"
+   },
+   {
+     "id": 344,
+     "set_num": "3185-1",
+     "name": "Summer Riding Camp",
+     "year": 2012,
+     "theme_id": 494,
+     "num_parts": 1160,
+     "theme": "Friends",
+     "img_url": "https://cdn.rebrickable.com/media/sets/3185-1.jpg"
+   },
+   {
+     "id": 345,
+     "set_num": "71756-1",
+     "name": "Hydro Bounty",
+     "year": 2021,
+     "theme_id": 435,
+     "num_parts": 1159,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/71756-1.jpg"
+   },
+   {
+     "id": 346,
+     "set_num": "10248-1",
+     "name": "Ferrari F40",
+     "year": 2015,
+     "theme_id": 673,
+     "num_parts": 1158,
+     "theme": "Creator Expert",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10248-1.jpg"
+   },
+   {
+     "id": 347,
+     "set_num": "75919-1",
+     "name": "Indominus rex Breakout",
+     "year": 2015,
+     "theme_id": 602,
+     "num_parts": 1156,
+     "theme": "Jurassic World",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75919-1.jpg"
+   },
+   {
+     "id": 348,
+     "set_num": "41714-1",
+     "name": "Andrea's Theater School",
+     "year": 2022,
+     "theme_id": 494,
+     "num_parts": 1154,
+     "theme": "Friends",
+     "img_url": "https://cdn.rebrickable.com/media/sets/41714-1.jpg"
+   },
+   {
+     "id": 349,
+     "set_num": "60336-1",
+     "name": "Freight Train",
+     "year": 2022,
+     "theme_id": 66,
+     "num_parts": 1153,
+     "theme": "Trains",
+     "img_url": "https://cdn.rebrickable.com/media/sets/60336-1.jpg"
+   },
+   {
+     "id": 350,
+     "set_num": "71391-1",
+     "name": "Bowser's Airship Expansion Set",
+     "year": 2021,
+     "theme_id": 690,
+     "num_parts": 1152,
+     "theme": "Super Mario",
+     "img_url": "https://cdn.rebrickable.com/media/sets/71391-1.jpg"
+   },
+   {
+     "id": 351,
+     "set_num": "42066-1",
+     "name": "Air Race Jet",
+     "year": 2017,
+     "theme_id": 1,
+     "num_parts": 1151,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42066-1.jpg"
+   },
+   {
+     "id": 352,
+     "set_num": "45100-1",
+     "name": "StoryStarter Core Set",
+     "year": 2013,
+     "theme_id": 507,
+     "num_parts": 1147,
+     "theme": "Educational and Dacta",
+     "img_url": "https://cdn.rebrickable.com/media/sets/45100-1.jpg"
+   },
+   {
+     "id": 353,
+     "set_num": "4002016-1",
+     "name": "50 Years On Track",
+     "year": 2016,
+     "theme_id": 599,
+     "num_parts": 1141,
+     "theme": "LEGO Exclusive",
+     "img_url": "https://cdn.rebrickable.com/media/sets/4002016-1.jpg"
+   },
+   {
+     "id": 354,
+     "set_num": "42000-1",
+     "name": "Grand Prix Racer",
+     "year": 2013,
+     "theme_id": 1,
+     "num_parts": 1141,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42000-1.jpg"
+   },
+   {
+     "id": 355,
+     "set_num": "70317-1",
+     "name": "The Fortrex",
+     "year": 2016,
+     "theme_id": 605,
+     "num_parts": 1140,
+     "theme": "Nexo Knights",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70317-1.jpg"
+   },
+   {
+     "id": 356,
+     "set_num": "75054-1",
+     "name": "AT-AT",
+     "year": 2014,
+     "theme_id": 158,
+     "num_parts": 1138,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75054-1.jpg"
+   },
+   {
+     "id": 357,
+     "set_num": "70627-1",
+     "name": "Dragon's Forge",
+     "year": 2017,
+     "theme_id": 435,
+     "num_parts": 1137,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70627-1.jpg"
+   },
+   {
+     "id": 358,
+     "set_num": "42152-1",
+     "name": "Firefighter Aircraft",
+     "year": 2023,
+     "theme_id": 1,
+     "num_parts": 1133,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42152-1.jpg"
+   },
+   {
+     "id": 359,
+     "set_num": "21331-1",
+     "name": "Sonic the Hedgehog ‚Äì Green Hill Zone",
+     "year": 2022,
+     "theme_id": 576,
+     "num_parts": 1125,
+     "theme": "LEGO Ideas and CUUSOO",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21331-1.jpg"
+   },
+   {
+     "id": 360,
+     "set_num": "41130-1",
+     "name": "Amusement Park Roller Coaster",
+     "year": 2016,
+     "theme_id": 494,
+     "num_parts": 1124,
+     "theme": "Friends",
+     "img_url": "https://cdn.rebrickable.com/media/sets/41130-1.jpg"
+   },
+   {
+     "id": 361,
+     "set_num": "21136-1",
+     "name": "The Ocean Monument",
+     "year": 2017,
+     "theme_id": 577,
+     "num_parts": 1122,
+     "theme": "Minecraft",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21136-1.jpg"
+   },
+   {
+     "id": 362,
+     "set_num": "8109-1",
+     "name": "Flatbed Truck",
+     "year": 2011,
+     "theme_id": 1,
+     "num_parts": 1115,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/8109-1.jpg"
+   },
+   {
+     "id": 363,
+     "set_num": "41703-1",
+     "name": "Friendship Tree House",
+     "year": 2022,
+     "theme_id": 494,
+     "num_parts": 1114,
+     "theme": "Friends",
+     "img_url": "https://cdn.rebrickable.com/media/sets/41703-1.jpg"
+   },
+   {
+     "id": 364,
+     "set_num": "80011-1",
+     "name": "Red Son's Inferno Truck",
+     "year": 2020,
+     "theme_id": 693,
+     "num_parts": 1111,
+     "theme": "Monkie Kid",
+     "img_url": "https://cdn.rebrickable.com/media/sets/80011-1.jpg"
+   },
+   {
+     "id": 365,
+     "set_num": "76255-1",
+     "name": "The New Guardians' Ship",
+     "year": 2023,
+     "theme_id": 704,
+     "num_parts": 1109,
+     "theme": "Guardians of the Galaxy",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76255-1.jpg"
+   },
+   {
+     "id": 366,
+     "set_num": "10298-1",
+     "name": "Vespa 125",
+     "year": 2022,
+     "theme_id": 721,
+     "num_parts": 1107,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10298-1.jpg"
+   },
+   {
+     "id": 367,
+     "set_num": "42068-1",
+     "name": "Airport Rescue Vehicle",
+     "year": 2017,
+     "theme_id": 1,
+     "num_parts": 1106,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42068-1.jpg"
+   },
+   {
+     "id": 368,
+     "set_num": "75187-1",
+     "name": "BB-8",
+     "year": 2017,
+     "theme_id": 158,
+     "num_parts": 1106,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75187-1.jpg"
+   },
+   {
+     "id": 369,
+     "set_num": "71765-1",
+     "name": "Ninja Ultra Combo Mech",
+     "year": 2022,
+     "theme_id": 435,
+     "num_parts": 1105,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/71765-1.jpg"
+   },
+   {
+     "id": 370,
+     "set_num": "9515-1",
+     "name": "The Malevolence",
+     "year": 2012,
+     "theme_id": 158,
+     "num_parts": 1101,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/9515-1.jpg"
+   },
+   {
+     "id": 371,
+     "set_num": "11021-1",
+     "name": "90 Years of Play",
+     "year": 2022,
+     "theme_id": 621,
+     "num_parts": 1100,
+     "theme": "Classic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/11021-1.jpg"
+   },
+   {
+     "id": 372,
+     "set_num": "4002018-1",
+     "name": "Santa and Reindeer",
+     "year": 2018,
+     "theme_id": 599,
+     "num_parts": 1099,
+     "theme": "LEGO Exclusive",
+     "img_url": "https://cdn.rebrickable.com/media/sets/4002018-1.jpg"
+   },
+   {
+     "id": 373,
+     "set_num": "4195-1",
+     "name": "Queen Anne's Revenge",
+     "year": 2011,
+     "theme_id": 263,
+     "num_parts": 1097,
+     "theme": "Pirates of the Caribbean",
+     "img_url": "https://cdn.rebrickable.com/media/sets/4195-1.jpg"
+   },
+   {
+     "id": 374,
+     "set_num": "41961-1",
+     "name": "Designer Toolkit - Patterns",
+     "year": 2022,
+     "theme_id": 688,
+     "num_parts": 1096,
+     "theme": "DOTS",
+     "img_url": "https://cdn.rebrickable.com/media/sets/41961-1.jpg"
+   },
+   {
+     "id": 375,
+     "set_num": "70595-1",
+     "name": "Ultra Stealth Raider",
+     "year": 2016,
+     "theme_id": 435,
+     "num_parts": 1094,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70595-1.jpg"
+   },
+   {
+     "id": 376,
+     "set_num": "76057-1",
+     "name": "Spider-Man: Web Warriors Ultimate Bridge Battle",
+     "year": 2016,
+     "theme_id": 706,
+     "num_parts": 1093,
+     "theme": "Spider-Man",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76057-1.jpg"
+   },
+   {
+     "id": 377,
+     "set_num": "75337-1",
+     "name": "AT-TE Walker",
+     "year": 2022,
+     "theme_id": 158,
+     "num_parts": 1089,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75337-1.jpg"
+   },
+   {
+     "id": 378,
+     "set_num": "10266-1",
+     "name": "NASA Apollo 11 Lunar Lander",
+     "year": 2019,
+     "theme_id": 673,
+     "num_parts": 1087,
+     "theme": "Creator Expert",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10266-1.jpg"
+   },
+   {
+     "id": 379,
+     "set_num": "76408-1",
+     "name": "12 Grimmauld Place",
+     "year": 2022,
+     "theme_id": 246,
+     "num_parts": 1086,
+     "theme": "Harry Potter",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76408-1.jpg"
+   },
+   {
+     "id": 380,
+     "set_num": "70670-1",
+     "name": "Monastery of Spinjitzu",
+     "year": 2019,
+     "theme_id": 435,
+     "num_parts": 1080,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70670-1.jpg"
+   },
+   {
+     "id": 381,
+     "set_num": "80106-1",
+     "name": "Story of Nian",
+     "year": 2021,
+     "theme_id": 686,
+     "num_parts": 1080,
+     "theme": "Chinese Traditional Festivals",
+     "img_url": "https://cdn.rebrickable.com/media/sets/80106-1.jpg"
+   },
+   {
+     "id": 382,
+     "set_num": "21329-1",
+     "name": "Fender Stratocaster",
+     "year": 2021,
+     "theme_id": 576,
+     "num_parts": 1079,
+     "theme": "LEGO Ideas and CUUSOO",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21329-1.jpg"
+   },
+   {
+     "id": 383,
+     "set_num": "41239-1",
+     "name": "Eclipso Dark Palace",
+     "year": 2017,
+     "theme_id": 617,
+     "num_parts": 1079,
+     "theme": "DC Super Hero Girls",
+     "img_url": "https://cdn.rebrickable.com/media/sets/41239-1.jpg"
+   },
+   {
+     "id": 384,
+     "set_num": "10242-1",
+     "name": "MINI Cooper",
+     "year": 2014,
+     "theme_id": 673,
+     "num_parts": 1077,
+     "theme": "Creator Expert",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10242-1.jpg"
+   },
+   {
+     "id": 385,
+     "set_num": "10242-2",
+     "name": "MINI Cooper (Late 2015 Re-Issue)",
+     "year": 2015,
+     "theme_id": 673,
+     "num_parts": 1077,
+     "theme": "Creator Expert",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10242-2.jpg"
+   },
+   {
+     "id": 386,
+     "set_num": "42111-1",
+     "name": "Dom‚Äôs Dodge Charger",
+     "year": 2020,
+     "theme_id": 1,
+     "num_parts": 1077,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42111-1.jpg"
+   },
+   {
+     "id": 387,
+     "set_num": "75318-1",
+     "name": "The Child",
+     "year": 2020,
+     "theme_id": 158,
+     "num_parts": 1073,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75318-1.jpg"
+   },
+   {
+     "id": 388,
+     "set_num": "76122-1",
+     "name": "Batcave Clayface Invasion",
+     "year": 2019,
+     "theme_id": 697,
+     "num_parts": 1073,
+     "theme": "Batman",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76122-1.jpg"
+   },
+   {
+     "id": 389,
+     "set_num": "40503-1",
+     "name": "Dagny Holm - Master Builder",
+     "year": 2022,
+     "theme_id": 599,
+     "num_parts": 1072,
+     "theme": "LEGO Exclusive",
+     "img_url": "https://cdn.rebrickable.com/media/sets/40503-1.jpg"
+   },
+   {
+     "id": 390,
+     "set_num": "21319-1",
+     "name": "Central Perk",
+     "year": 2019,
+     "theme_id": 576,
+     "num_parts": 1070,
+     "theme": "LEGO Ideas and CUUSOO",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21319-1.jpg"
+   },
+   {
+     "id": 391,
+     "set_num": "70732-1",
+     "name": "City of Stiix",
+     "year": 2015,
+     "theme_id": 435,
+     "num_parts": 1070,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70732-1.jpg"
+   },
+   {
+     "id": 392,
+     "set_num": "80108-1",
+     "name": "Lunar New Year Traditions",
+     "year": 2021,
+     "theme_id": 686,
+     "num_parts": 1066,
+     "theme": "Chinese Traditional Festivals",
+     "img_url": "https://cdn.rebrickable.com/media/sets/80108-1.jpg"
+   },
+   {
+     "id": 393,
+     "set_num": "42029-1",
+     "name": "Customized Pick up Truck",
+     "year": 2014,
+     "theme_id": 1,
+     "num_parts": 1063,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42029-1.jpg"
+   },
+   {
+     "id": 394,
+     "set_num": "910017-1",
+     "name": "Kakapo",
+     "year": 2021,
+     "theme_id": 719,
+     "num_parts": 1063,
+     "theme": "BrickLink Designer Program",
+     "img_url": "https://cdn.rebrickable.com/media/sets/910017-1.jpg"
+   },
+   {
+     "id": 395,
+     "set_num": "60229-1",
+     "name": "Rocket Assembly & Transport",
+     "year": 2019,
+     "theme_id": 679,
+     "num_parts": 1062,
+     "theme": "Mars Exploration",
+     "img_url": "https://cdn.rebrickable.com/media/sets/60229-1.jpg"
+   },
+   {
+     "id": 396,
+     "set_num": "75335-1",
+     "name": "BD-1",
+     "year": 2022,
+     "theme_id": 158,
+     "num_parts": 1062,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75335-1.jpg"
+   },
+   {
+     "id": 397,
+     "set_num": "71755-1",
+     "name": "Temple of the Endless Sea",
+     "year": 2021,
+     "theme_id": 435,
+     "num_parts": 1060,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/71755-1.jpg"
+   },
+   {
+     "id": 398,
+     "set_num": "75251-1",
+     "name": "Darth Vader's Castle",
+     "year": 2018,
+     "theme_id": 158,
+     "num_parts": 1060,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75251-1.jpg"
+   },
+   {
+     "id": 399,
+     "set_num": "70165-1",
+     "name": "Ultra Agents Mission HQ",
+     "year": 2014,
+     "theme_id": 303,
+     "num_parts": 1059,
+     "theme": "Ultra Agents",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70165-1.jpg"
+   },
+   {
+     "id": 400,
+     "set_num": "9396-1",
+     "name": "Helicopter",
+     "year": 2012,
+     "theme_id": 1,
+     "num_parts": 1056,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/9396-1.jpg"
+   },
+   {
+     "id": 401,
+     "set_num": "70916-1",
+     "name": "The Batwing",
+     "year": 2017,
+     "theme_id": 708,
+     "num_parts": 1053,
+     "theme": "The LEGO Batman Movie",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70916-1.jpg"
+   },
+   {
+     "id": 402,
+     "set_num": "75980-1",
+     "name": "Attack on The Burrow",
+     "year": 2020,
+     "theme_id": 246,
+     "num_parts": 1052,
+     "theme": "Harry Potter",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75980-1.jpg"
+   },
+   {
+     "id": 403,
+     "set_num": "80010-1",
+     "name": "Demon Bull King",
+     "year": 2020,
+     "theme_id": 693,
+     "num_parts": 1051,
+     "theme": "Monkie Kid",
+     "img_url": "https://cdn.rebrickable.com/media/sets/80010-1.jpg"
+   },
+   {
+     "id": 404,
+     "set_num": "76156-1",
+     "name": "Rise of the Domo",
+     "year": 2021,
+     "theme_id": 696,
+     "num_parts": 1049,
+     "theme": "Super Heroes Marvel",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76156-1.jpg"
+   },
+   {
+     "id": 405,
+     "set_num": "70909-1",
+     "name": "Batcave Break-in",
+     "year": 2017,
+     "theme_id": 708,
+     "num_parts": 1047,
+     "theme": "The LEGO Batman Movie",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70909-1.jpg"
+   },
+   {
+     "id": 406,
+     "set_num": "42052-1",
+     "name": "Heavy Lift Helicopter",
+     "year": 2016,
+     "theme_id": 1,
+     "num_parts": 1042,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42052-1.jpg"
+   },
+   {
+     "id": 407,
+     "set_num": "40504-1",
+     "name": "A Minifigure Tribute",
+     "year": 2023,
+     "theme_id": 599,
+     "num_parts": 1041,
+     "theme": "LEGO Exclusive",
+     "img_url": "https://cdn.rebrickable.com/media/sets/40504-1.jpg"
+   },
+   {
+     "id": 408,
+     "set_num": "41935-1",
+     "name": "Lots of DOTS",
+     "year": 2021,
+     "theme_id": 688,
+     "num_parts": 1040,
+     "theme": "DOTS",
+     "img_url": "https://cdn.rebrickable.com/media/sets/41935-1.jpg"
+   },
+   {
+     "id": 409,
+     "set_num": "4002019-1",
+     "name": "Yuletide Squadron Xmas-Wing Starfighter",
+     "year": 2019,
+     "theme_id": 599,
+     "num_parts": 1038,
+     "theme": "LEGO Exclusive",
+     "img_url": "https://cdn.rebrickable.com/media/sets/4002019-1.jpg"
+   },
+   {
+     "id": 410,
+     "set_num": "76035-1",
+     "name": "Jokerland",
+     "year": 2015,
+     "theme_id": 697,
+     "num_parts": 1038,
+     "theme": "Batman",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76035-1.jpg"
+   },
+   {
+     "id": 411,
+     "set_num": "70437-1",
+     "name": "Mystery Castle",
+     "year": 2020,
+     "theme_id": 676,
+     "num_parts": 1035,
+     "theme": "Hidden Side",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70437-1.jpg"
+   },
+   {
+     "id": 412,
+     "set_num": "21030-1",
+     "name": "United States Capitol Building",
+     "year": 2016,
+     "theme_id": 252,
+     "num_parts": 1032,
+     "theme": "Architecture",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21030-1.jpg"
+   },
+   {
+     "id": 413,
+     "set_num": "41450-1",
+     "name": "Heartlake City Shopping Mall",
+     "year": 2021,
+     "theme_id": 494,
+     "num_parts": 1032,
+     "theme": "Friends",
+     "img_url": "https://cdn.rebrickable.com/media/sets/41450-1.jpg"
+   },
+   {
+     "id": 414,
+     "set_num": "7964-1",
+     "name": "Republic Frigate",
+     "year": 2011,
+     "theme_id": 158,
+     "num_parts": 1030,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/7964-1.jpg"
+   },
+   {
+     "id": 415,
+     "set_num": "70828-1",
+     "name": "Pop-Up Party Bus",
+     "year": 2019,
+     "theme_id": 670,
+     "num_parts": 1024,
+     "theme": "The LEGO Movie II",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70828-1.jpg"
+   },
+   {
+     "id": 416,
+     "set_num": "10269-1",
+     "name": "Harley-Davidson Fat Boy",
+     "year": 2019,
+     "theme_id": 673,
+     "num_parts": 1023,
+     "theme": "Creator Expert",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10269-1.jpg"
+   },
+   {
+     "id": 417,
+     "set_num": "31026-1",
+     "name": "Bike Shop & Cafe",
+     "year": 2014,
+     "theme_id": 672,
+     "num_parts": 1023,
+     "theme": "Creator 3-in-1",
+     "img_url": "https://cdn.rebrickable.com/media/sets/31026-1.jpg"
+   },
+   {
+     "id": 418,
+     "set_num": "75292-1",
+     "name": "The Razor Crest",
+     "year": 2020,
+     "theme_id": 158,
+     "num_parts": 1023,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75292-1.jpg"
+   },
+   {
+     "id": 419,
+     "set_num": "75323-1",
+     "name": "The Justifier",
+     "year": 2022,
+     "theme_id": 158,
+     "num_parts": 1023,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75323-1.jpg"
+   },
+   {
+     "id": 420,
+     "set_num": "42076-1",
+     "name": "Hovercraft",
+     "year": 2018,
+     "theme_id": 1,
+     "num_parts": 1020,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42076-1.jpg"
+   },
+   {
+     "id": 421,
+     "set_num": "41347-1",
+     "name": "Heartlake City Resort",
+     "year": 2018,
+     "theme_id": 494,
+     "num_parts": 1019,
+     "theme": "Friends",
+     "img_url": "https://cdn.rebrickable.com/media/sets/41347-1.jpg"
+   },
+   {
+     "id": 422,
+     "set_num": "75930-1",
+     "name": "Indoraptor Rampage at Lockwood",
+     "year": 2018,
+     "theme_id": 602,
+     "num_parts": 1019,
+     "theme": "Jurassic World",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75930-1.jpg"
+   },
+   {
+     "id": 423,
+     "set_num": "10682-1",
+     "name": "Creative Suitcase",
+     "year": 2014,
+     "theme_id": 35,
+     "num_parts": 1017,
+     "theme": "Bricks & More",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10682-1.jpg"
+   },
+   {
+     "id": 424,
+     "set_num": "71721-1",
+     "name": "Skull Sorcerer's Dragon",
+     "year": 2020,
+     "theme_id": 435,
+     "num_parts": 1017,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/71721-1.jpg"
+   },
+   {
+     "id": 425,
+     "set_num": "41180-1",
+     "name": "Ragana's Magic Shadow Castle",
+     "year": 2016,
+     "theme_id": 600,
+     "num_parts": 1016,
+     "theme": "Elves",
+     "img_url": "https://cdn.rebrickable.com/media/sets/41180-1.jpg"
+   },
+   {
+     "id": 426,
+     "set_num": "71775-1",
+     "name": "Nya's Samurai X MECH",
+     "year": 2022,
+     "theme_id": 435,
+     "num_parts": 1014,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/71775-1.jpg"
+   },
+   {
+     "id": 427,
+     "set_num": "41430-1",
+     "name": "Summer Fun Water Park",
+     "year": 2020,
+     "theme_id": 494,
+     "num_parts": 1012,
+     "theme": "Friends",
+     "img_url": "https://cdn.rebrickable.com/media/sets/41430-1.jpg"
+   },
+   {
+     "id": 428,
+     "set_num": "70709-1",
+     "name": "Galactic Titan",
+     "year": 2013,
+     "theme_id": 146,
+     "num_parts": 1012,
+     "theme": "Galaxy Squad",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70709-1.jpg"
+   },
+   {
+     "id": 429,
+     "set_num": "76108-1",
+     "name": "Sanctum Sanctorum Showdown",
+     "year": 2018,
+     "theme_id": 702,
+     "num_parts": 1011,
+     "theme": "Avengers",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76108-1.jpg"
+   },
+   {
+     "id": 430,
+     "set_num": "60351-1",
+     "name": "Rocket Launch Center",
+     "year": 2022,
+     "theme_id": 52,
+     "num_parts": 1010,
+     "theme": "City",
+     "img_url": "https://cdn.rebrickable.com/media/sets/60351-1.jpg"
+   },
+   {
+     "id": 431,
+     "set_num": "71369-1",
+     "name": "Bowser's Castle Boss Battle Expansion Set",
+     "year": 2020,
+     "theme_id": 690,
+     "num_parts": 1010,
+     "theme": "Super Mario",
+     "img_url": "https://cdn.rebrickable.com/media/sets/71369-1.jpg"
+   },
+   {
+     "id": 432,
+     "set_num": "4000024-1",
+     "name": "LEGO House Tree of Creativity",
+     "year": 2017,
+     "theme_id": 599,
+     "num_parts": 1007,
+     "theme": "LEGO Exclusive",
+     "img_url": "https://cdn.rebrickable.com/media/sets/4000024-1.jpg"
+   },
+   {
+     "id": 433,
+     "set_num": "75243-1",
+     "name": "Slave I - 20th Anniversary Edition",
+     "year": 2019,
+     "theme_id": 158,
+     "num_parts": 1007,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75243-1.jpg"
+   },
+   {
+     "id": 434,
+     "set_num": "42077-1",
+     "name": "Rally Car",
+     "year": 2018,
+     "theme_id": 1,
+     "num_parts": 1005,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42077-1.jpg"
+   },
+   {
+     "id": 435,
+     "set_num": "75104-1",
+     "name": "Kylo Ren's Command Shuttle",
+     "year": 2015,
+     "theme_id": 158,
+     "num_parts": 1005,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75104-1.jpg"
+   },
+   {
+     "id": 436,
+     "set_num": "75256-1",
+     "name": "Kylo Ren's Shuttle",
+     "year": 2019,
+     "theme_id": 158,
+     "num_parts": 1005,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75256-1.jpg"
+   },
+   {
+     "id": 437,
+     "set_num": "41722-1",
+     "name": "Horse Show Trailer",
+     "year": 2022,
+     "theme_id": 494,
+     "num_parts": 1004,
+     "theme": "Friends",
+     "img_url": "https://cdn.rebrickable.com/media/sets/41722-1.jpg"
+   },
+   {
+     "id": 438,
+     "set_num": "42080-1",
+     "name": "Forest Machine",
+     "year": 2018,
+     "theme_id": 1,
+     "num_parts": 1003,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42080-1.jpg"
+   },
+   {
+     "id": 439,
+     "set_num": "70404-1",
+     "name": "King‚Äôs Castle",
+     "year": 2013,
+     "theme_id": 186,
+     "num_parts": 1003,
+     "theme": "Castle",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70404-1.jpg"
+   },
+   {
+     "id": 440,
+     "set_num": "31119-1",
+     "name": "Ferris Wheel",
+     "year": 2021,
+     "theme_id": 672,
+     "num_parts": 1002,
+     "theme": "Creator 3-in-1",
+     "img_url": "https://cdn.rebrickable.com/media/sets/31119-1.jpg"
+   },
+   {
+     "id": 441,
+     "set_num": "10705-1",
+     "name": "Creative Building Basket",
+     "year": 2016,
+     "theme_id": 621,
+     "num_parts": 1000,
+     "theme": "Classic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10705-1.jpg"
+   },
+   {
+     "id": 442,
+     "set_num": "11030-1",
+     "name": "Lots of Bricks",
+     "year": 2023,
+     "theme_id": 621,
+     "num_parts": 1000,
+     "theme": "Classic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/11030-1.jpg"
+   },
+   {
+     "id": 443,
+     "set_num": "45020-1",
+     "name": "Creative LEGO Brick Set",
+     "year": 2016,
+     "theme_id": 507,
+     "num_parts": 1000,
+     "theme": "Educational and Dacta",
+     "img_url": "https://cdn.rebrickable.com/media/sets/45020-1.jpg"
+   },
+   {
+     "id": 444,
+     "set_num": "4630-1",
+     "name": "Build and Play Box",
+     "year": 2012,
+     "theme_id": 35,
+     "num_parts": 1000,
+     "theme": "Bricks & More",
+     "img_url": "https://cdn.rebrickable.com/media/sets/4630-1.jpg"
+   },
+   {
+     "id": 445,
+     "set_num": "75330-1",
+     "name": "Dagobah Jedi Training Diorama",
+     "year": 2022,
+     "theme_id": 158,
+     "num_parts": 1000,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75330-1.jpg"
+   },
+   {
+     "id": 446,
+     "set_num": "4000034-1",
+     "name": "The LEGO System House",
+     "year": 2019,
+     "theme_id": 599,
+     "num_parts": 998,
+     "theme": "LEGO Exclusive",
+     "img_url": "https://cdn.rebrickable.com/media/sets/4000034-1.jpg"
+   },
+   {
+     "id": 447,
+     "set_num": "70838-1",
+     "name": "Queen Watevra's ‚ÄòSo-Not-Evil' Space Palace",
+     "year": 2019,
+     "theme_id": 670,
+     "num_parts": 997,
+     "theme": "The LEGO Movie II",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70838-1.jpg"
+   },
+   {
+     "id": 448,
+     "set_num": "76403-1",
+     "name": "The Ministry of Magic",
+     "year": 2022,
+     "theme_id": 246,
+     "num_parts": 990,
+     "theme": "Harry Potter",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76403-1.jpg"
+   },
+   {
+     "id": 449,
+     "set_num": "41731-1",
+     "name": "Heartlake International School",
+     "year": 2023,
+     "theme_id": 494,
+     "num_parts": 985,
+     "theme": "Friends",
+     "img_url": "https://cdn.rebrickable.com/media/sets/41731-1.jpg"
+   },
+   {
+     "id": 450,
+     "set_num": "21127-1",
+     "name": "The Fortress",
+     "year": 2016,
+     "theme_id": 577,
+     "num_parts": 984,
+     "theme": "Minecraft",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21127-1.jpg"
+   },
+   {
+     "id": 451,
+     "set_num": "60098-1",
+     "name": "Heavy-Haul Train",
+     "year": 2015,
+     "theme_id": 66,
+     "num_parts": 984,
+     "theme": "Trains",
+     "img_url": "https://cdn.rebrickable.com/media/sets/60098-1.jpg"
+   },
+   {
+     "id": 452,
+     "set_num": "71786-1",
+     "name": "Zane's Ice Dragon Creature",
+     "year": 2023,
+     "theme_id": 435,
+     "num_parts": 984,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/71786-1.jpg"
+   },
+   {
+     "id": 453,
+     "set_num": "43115-1",
+     "name": "The Boombox",
+     "year": 2021,
+     "theme_id": 713,
+     "num_parts": 982,
+     "theme": "VIDIYO",
+     "img_url": "https://cdn.rebrickable.com/media/sets/43115-1.jpg"
+   },
+   {
+     "id": 454,
+     "set_num": "76209-1",
+     "name": "Thor's Hammer",
+     "year": 2022,
+     "theme_id": 696,
+     "num_parts": 979,
+     "theme": "Super Heroes Marvel",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76209-1.jpg"
+   },
+   {
+     "id": 455,
+     "set_num": "71720-1",
+     "name": "Fire Stone Mech",
+     "year": 2020,
+     "theme_id": 435,
+     "num_parts": 977,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/71720-1.jpg"
+   },
+   {
+     "id": 456,
+     "set_num": "10291-1",
+     "name": "Queer Eye: The Fab 5 Loft",
+     "year": 2021,
+     "theme_id": 721,
+     "num_parts": 974,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10291-1.jpg"
+   },
+   {
+     "id": 457,
+     "set_num": "41685-1",
+     "name": "Magical Funfair Roller Coaster",
+     "year": 2021,
+     "theme_id": 494,
+     "num_parts": 974,
+     "theme": "Friends",
+     "img_url": "https://cdn.rebrickable.com/media/sets/41685-1.jpg"
+   },
+   {
+     "id": 458,
+     "set_num": "75157-1",
+     "name": "Captain Rex‚Äôs AT-TE",
+     "year": 2016,
+     "theme_id": 158,
+     "num_parts": 972,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75157-1.jpg"
+   },
+   {
+     "id": 459,
+     "set_num": "75969-1",
+     "name": "Hogwarts Astronomy Tower",
+     "year": 2020,
+     "theme_id": 246,
+     "num_parts": 971,
+     "theme": "Harry Potter",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75969-1.jpg"
+   },
+   {
+     "id": 460,
+     "set_num": "75314-1",
+     "name": "The Bad Batch Attack Shuttle",
+     "year": 2021,
+     "theme_id": 158,
+     "num_parts": 970,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75314-1.jpg"
+   },
+   {
+     "id": 461,
+     "set_num": "31097-1",
+     "name": "Townhouse Pet Shop & Caf?©",
+     "year": 2019,
+     "theme_id": 672,
+     "num_parts": 969,
+     "theme": "Creator 3-in-1",
+     "img_url": "https://cdn.rebrickable.com/media/sets/31097-1.jpg"
+   },
+   {
+     "id": 462,
+     "set_num": "75883-1",
+     "name": "MERCEDES AMG PETRONAS Formula One Team",
+     "year": 2017,
+     "theme_id": 601,
+     "num_parts": 963,
+     "theme": "Speed Champions",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75883-1.jpg"
+   },
+   {
+     "id": 463,
+     "set_num": "21313-1",
+     "name": "Ship in a Bottle",
+     "year": 2018,
+     "theme_id": 576,
+     "num_parts": 962,
+     "theme": "LEGO Ideas and CUUSOO",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21313-1.jpg"
+   },
+   {
+     "id": 464,
+     "set_num": "92177-1",
+     "name": "Ship in a Bottle",
+     "year": 2020,
+     "theme_id": 576,
+     "num_parts": 962,
+     "theme": "LEGO Ideas and CUUSOO",
+     "img_url": "https://cdn.rebrickable.com/media/sets/92177-1.jpg"
+   },
+   {
+     "id": 465,
+     "set_num": "10271-1",
+     "name": "Fiat 500",
+     "year": 2020,
+     "theme_id": 673,
+     "num_parts": 960,
+     "theme": "Creator Expert",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10271-1.jpg"
+   },
+   {
+     "id": 466,
+     "set_num": "77942-1",
+     "name": "Fiat 500 - Bright Light Blue Version",
+     "year": 2021,
+     "theme_id": 673,
+     "num_parts": 960,
+     "theme": "Creator Expert",
+     "img_url": "https://cdn.rebrickable.com/media/sets/77942-1.jpg"
+   },
+   {
+     "id": 467,
+     "set_num": "42099-1",
+     "name": "4x4 X-treme Off-Roader",
+     "year": 2019,
+     "theme_id": 1,
+     "num_parts": 958,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42099-1.jpg"
+   },
+   {
+     "id": 468,
+     "set_num": "76087-1",
+     "name": "Flying Fox: Batmobile Airlift Attack",
+     "year": 2017,
+     "theme_id": 700,
+     "num_parts": 956,
+     "theme": "Justice League",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76087-1.jpg"
+   },
+   {
+     "id": 469,
+     "set_num": "71774-1",
+     "name": "Lloyd's Golden Ultra Dragon",
+     "year": 2022,
+     "theme_id": 435,
+     "num_parts": 955,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/71774-1.jpg"
+   },
+   {
+     "id": 470,
+     "set_num": "75058-1",
+     "name": "MTT",
+     "year": 2014,
+     "theme_id": 158,
+     "num_parts": 954,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75058-1.jpg"
+   },
+   {
+     "id": 471,
+     "set_num": "9395-1",
+     "name": "Pick-Up Tow Truck",
+     "year": 2012,
+     "theme_id": 1,
+     "num_parts": 954,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/9395-1.jpg"
+   },
+   {
+     "id": 472,
+     "set_num": "70679-1",
+     "name": "The Ultra Dragon",
+     "year": 2019,
+     "theme_id": 435,
+     "num_parts": 952,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70679-1.jpg"
+   },
+   {
+     "id": 473,
+     "set_num": "11015-1",
+     "name": "Around The World",
+     "year": 2021,
+     "theme_id": 621,
+     "num_parts": 951,
+     "theme": "Classic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/11015-1.jpg"
+   },
+   {
+     "id": 474,
+     "set_num": "51515-1",
+     "name": "Robot Inventor",
+     "year": 2020,
+     "theme_id": 258,
+     "num_parts": 949,
+     "theme": "Mindstorms",
+     "img_url": "https://cdn.rebrickable.com/media/sets/51515-1.jpg"
+   },
+   {
+     "id": 475,
+     "set_num": "9468-1",
+     "name": "The Vampyre Castle",
+     "year": 2012,
+     "theme_id": 558,
+     "num_parts": 949,
+     "theme": "Monster Fighters",
+     "img_url": "https://cdn.rebrickable.com/media/sets/9468-1.jpg"
+   },
+   {
+     "id": 476,
+     "set_num": "42024-1",
+     "name": "Container Truck",
+     "year": 2014,
+     "theme_id": 1,
+     "num_parts": 948,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42024-1.jpg"
+   },
+   {
+     "id": 477,
+     "set_num": "70615-1",
+     "name": "Fire Mech",
+     "year": 2017,
+     "theme_id": 616,
+     "num_parts": 944,
+     "theme": "The LEGO Ninjago Movie",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70615-1.jpg"
+   },
+   {
+     "id": 478,
+     "set_num": "41952-1",
+     "name": "Big Message Board",
+     "year": 2022,
+     "theme_id": 688,
+     "num_parts": 943,
+     "theme": "DOTS",
+     "img_url": "https://cdn.rebrickable.com/media/sets/41952-1.jpg"
+   },
+   {
+     "id": 479,
+     "set_num": "60216-1",
+     "name": "Downtown Fire Brigade",
+     "year": 2019,
+     "theme_id": 58,
+     "num_parts": 943,
+     "theme": "Fire",
+     "img_url": "https://cdn.rebrickable.com/media/sets/60216-1.jpg"
+   },
+   {
+     "id": 480,
+     "set_num": "70816-1",
+     "name": "Benny‚Äôs Spaceship, Spaceship, SPACESHIP!",
+     "year": 2014,
+     "theme_id": 578,
+     "num_parts": 940,
+     "theme": "The LEGO Movie",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70816-1.jpg"
+   },
+   {
+     "id": 481,
+     "set_num": "10313-1",
+     "name": "Wildflower Bouquet",
+     "year": 2023,
+     "theme_id": 721,
+     "num_parts": 939,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10313-1.jpg"
+   },
+   {
+     "id": 482,
+     "set_num": "4207-1",
+     "name": "City Garage",
+     "year": 2012,
+     "theme_id": 63,
+     "num_parts": 938,
+     "theme": "Traffic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/4207-1.jpg"
+   },
+   {
+     "id": 483,
+     "set_num": "75094-1",
+     "name": "Imperial Shuttle Tydirium",
+     "year": 2015,
+     "theme_id": 158,
+     "num_parts": 937,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75094-1.jpg"
+   },
+   {
+     "id": 484,
+     "set_num": "75158-1",
+     "name": "Rebel Combat Frigate",
+     "year": 2016,
+     "theme_id": 158,
+     "num_parts": 936,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75158-1.jpg"
+   },
+   {
+     "id": 485,
+     "set_num": "75293-1",
+     "name": "Resistance I-TS Transport",
+     "year": 2020,
+     "theme_id": 158,
+     "num_parts": 932,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75293-1.jpg"
+   },
+   {
+     "id": 486,
+     "set_num": "75053-1",
+     "name": "The Ghost",
+     "year": 2014,
+     "theme_id": 158,
+     "num_parts": 929,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75053-1.jpg"
+   },
+   {
+     "id": 487,
+     "set_num": "80034-1",
+     "name": "Nezha‚Äôs Fire Ring",
+     "year": 2022,
+     "theme_id": 693,
+     "num_parts": 929,
+     "theme": "Monkie Kid",
+     "img_url": "https://cdn.rebrickable.com/media/sets/80034-1.jpg"
+   },
+   {
+     "id": 488,
+     "set_num": "41381-1",
+     "name": "Rescue Mission Boat",
+     "year": 2019,
+     "theme_id": 494,
+     "num_parts": 928,
+     "theme": "Friends",
+     "img_url": "https://cdn.rebrickable.com/media/sets/41381-1.jpg"
+   },
+   {
+     "id": 489,
+     "set_num": "75025-1",
+     "name": "Jedi Defender-class Cruiser",
+     "year": 2013,
+     "theme_id": 158,
+     "num_parts": 927,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75025-1.jpg"
+   },
+   {
+     "id": 490,
+     "set_num": "75948-1",
+     "name": "Hogwarts Clock Tower",
+     "year": 2019,
+     "theme_id": 246,
+     "num_parts": 926,
+     "theme": "Harry Potter",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75948-1.jpg"
+   },
+   {
+     "id": 491,
+     "set_num": "19009-1",
+     "name": "Imagine It! Build It!",
+     "year": 2019,
+     "theme_id": 719,
+     "num_parts": 925,
+     "theme": "BrickLink Designer Program",
+     "img_url": "https://cdn.rebrickable.com/media/sets/19009-1.jpg"
+   },
+   {
+     "id": 492,
+     "set_num": "75336-1",
+     "name": "Inquisitor Transport Scythe",
+     "year": 2022,
+     "theme_id": 158,
+     "num_parts": 924,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75336-1.jpg"
+   },
+   {
+     "id": 493,
+     "set_num": "31084-1",
+     "name": "Pirate Roller Coaster",
+     "year": 2018,
+     "theme_id": 672,
+     "num_parts": 923,
+     "theme": "Creator 3-in-1",
+     "img_url": "https://cdn.rebrickable.com/media/sets/31084-1.jpg"
+   },
+   {
+     "id": 494,
+     "set_num": "21118-1",
+     "name": "The Mine",
+     "year": 2014,
+     "theme_id": 577,
+     "num_parts": 922,
+     "theme": "Minecraft",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21118-1.jpg"
+   },
+   {
+     "id": 495,
+     "set_num": "42097-1",
+     "name": "Compact Crawler Crane",
+     "year": 2019,
+     "theme_id": 1,
+     "num_parts": 920,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42097-1.jpg"
+   },
+   {
+     "id": 496,
+     "set_num": "60110-1",
+     "name": "Fire Station",
+     "year": 2016,
+     "theme_id": 58,
+     "num_parts": 920,
+     "theme": "Fire",
+     "img_url": "https://cdn.rebrickable.com/media/sets/60110-1.jpg"
+   },
+   {
+     "id": 497,
+     "set_num": "4002020-1",
+     "name": "Celebrating 40 Years of Hands-on Learning",
+     "year": 2020,
+     "theme_id": 599,
+     "num_parts": 919,
+     "theme": "LEGO Exclusive",
+     "img_url": "https://cdn.rebrickable.com/media/sets/4002020-1.jpg"
+   },
+   {
+     "id": 498,
+     "set_num": "60026-1",
+     "name": "Town Square",
+     "year": 2013,
+     "theme_id": 63,
+     "num_parts": 918,
+     "theme": "Traffic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/60026-1.jpg"
+   },
+   {
+     "id": 499,
+     "set_num": "60317-1",
+     "name": "Police Chase at the Bank",
+     "year": 2022,
+     "theme_id": 61,
+     "num_parts": 915,
+     "theme": "Police",
+     "img_url": "https://cdn.rebrickable.com/media/sets/60317-1.jpg"
+   },
+   {
+     "id": 500,
+     "set_num": "9450-1",
+     "name": "Epic Dragon Battle",
+     "year": 2012,
+     "theme_id": 435,
+     "num_parts": 915,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/9450-1.jpg"
+   },
+   {
+     "id": 501,
+     "set_num": "70616-1",
+     "name": "Ice Tank",
+     "year": 2017,
+     "theme_id": 616,
+     "num_parts": 914,
+     "theme": "The LEGO Ninjago Movie",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70616-1.jpg"
+   },
+   {
+     "id": 502,
+     "set_num": "42038-1",
+     "name": "Arctic Truck",
+     "year": 2015,
+     "theme_id": 1,
+     "num_parts": 913,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42038-1.jpg"
+   },
+   {
+     "id": 503,
+     "set_num": "21320-1",
+     "name": "Dinosaur Fossils",
+     "year": 2019,
+     "theme_id": 576,
+     "num_parts": 911,
+     "theme": "LEGO Ideas and CUUSOO",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21320-1.jpg"
+   },
+   {
+     "id": 504,
+     "set_num": "4000007-1",
+     "name": "Ole Kirk's House (LEGO Employee Christmas Gift Version)",
+     "year": 2012,
+     "theme_id": 599,
+     "num_parts": 910,
+     "theme": "LEGO Exclusive",
+     "img_url": "https://cdn.rebrickable.com/media/sets/4000007-1.jpg"
+   },
+   {
+     "id": 505,
+     "set_num": "21174-1",
+     "name": "The Modern Treehouse",
+     "year": 2021,
+     "theme_id": 577,
+     "num_parts": 909,
+     "theme": "Minecraft",
+     "img_url": "https://cdn.rebrickable.com/media/sets/21174-1.jpg"
+   },
+   {
+     "id": 506,
+     "set_num": "77944-1",
+     "name": "Fire Station Headquarters",
+     "year": 2021,
+     "theme_id": 58,
+     "num_parts": 909,
+     "theme": "Fire",
+     "img_url": "https://cdn.rebrickable.com/media/sets/77944-1.jpg"
+   },
+   {
+     "id": 507,
+     "set_num": "60096-1",
+     "name": "Deep Sea Operation Base",
+     "year": 2015,
+     "theme_id": 52,
+     "num_parts": 907,
+     "theme": "City",
+     "img_url": "https://cdn.rebrickable.com/media/sets/60096-1.jpg"
+   },
+   {
+     "id": 508,
+     "set_num": "60335-1",
+     "name": "Train Station",
+     "year": 2022,
+     "theme_id": 66,
+     "num_parts": 907,
+     "theme": "Trains",
+     "img_url": "https://cdn.rebrickable.com/media/sets/60335-1.jpg"
+   },
+   {
+     "id": 509,
+     "set_num": "9337-1",
+     "name": "Harbor Set",
+     "year": 2011,
+     "theme_id": 533,
+     "num_parts": 907,
+     "theme": "Town",
+     "img_url": "https://cdn.rebrickable.com/media/sets/9337-1.jpg"
+   },
+   {
+     "id": 510,
+     "set_num": "42151-1",
+     "name": "Bugatti Bolide",
+     "year": 2023,
+     "theme_id": 1,
+     "num_parts": 905,
+     "theme": "Technic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/42151-1.jpg"
+   },
+   {
+     "id": 511,
+     "set_num": "75151-1",
+     "name": "Clone Turbo Tank",
+     "year": 2016,
+     "theme_id": 158,
+     "num_parts": 903,
+     "theme": "Star Wars",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75151-1.jpg"
+   },
+   {
+     "id": 512,
+     "set_num": "10259-1",
+     "name": "Winter Village Station",
+     "year": 2017,
+     "theme_id": 228,
+     "num_parts": 902,
+     "theme": "Creator",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10259-1.jpg"
+   },
+   {
+     "id": 513,
+     "set_num": "10704-1",
+     "name": "Creative Box",
+     "year": 2017,
+     "theme_id": 621,
+     "num_parts": 900,
+     "theme": "Classic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10704-1.jpg"
+   },
+   {
+     "id": 514,
+     "set_num": "11005-1",
+     "name": "Creative Fun",
+     "year": 2019,
+     "theme_id": 621,
+     "num_parts": 900,
+     "theme": "Classic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/11005-1.jpg"
+   },
+   {
+     "id": 515,
+     "set_num": "11029-1",
+     "name": "Creative Party Box",
+     "year": 2023,
+     "theme_id": 621,
+     "num_parts": 900,
+     "theme": "Classic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/11029-1.jpg"
+   },
+   {
+     "id": 516,
+     "set_num": "80033-1",
+     "name": "Evil Macaque‚Äôs Mech",
+     "year": 2022,
+     "theme_id": 693,
+     "num_parts": 899,
+     "theme": "Monkie Kid",
+     "img_url": "https://cdn.rebrickable.com/media/sets/80033-1.jpg"
+   },
+   {
+     "id": 517,
+     "set_num": "10249-1",
+     "name": "Winter Toy Shop",
+     "year": 2015,
+     "theme_id": 228,
+     "num_parts": 898,
+     "theme": "Creator",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10249-1.jpg"
+   },
+   {
+     "id": 518,
+     "set_num": "60258-1",
+     "name": "Tuning Workshop",
+     "year": 2020,
+     "theme_id": 52,
+     "num_parts": 897,
+     "theme": "City",
+     "img_url": "https://cdn.rebrickable.com/media/sets/60258-1.jpg"
+   },
+   {
+     "id": 519,
+     "set_num": "60141-1",
+     "name": "Police Station",
+     "year": 2017,
+     "theme_id": 61,
+     "num_parts": 894,
+     "theme": "Police",
+     "img_url": "https://cdn.rebrickable.com/media/sets/60141-1.jpg"
+   },
+   {
+     "id": 520,
+     "set_num": "60052-1",
+     "name": "Cargo Train",
+     "year": 2014,
+     "theme_id": 66,
+     "num_parts": 892,
+     "theme": "Trains",
+     "img_url": "https://cdn.rebrickable.com/media/sets/60052-1.jpg"
+   },
+   {
+     "id": 521,
+     "set_num": "70653-1",
+     "name": "Firstbourne",
+     "year": 2018,
+     "theme_id": 435,
+     "num_parts": 892,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70653-1.jpg"
+   },
+   {
+     "id": 522,
+     "set_num": "75913-1",
+     "name": "F14 T & Scuderia Ferrari Truck",
+     "year": 2015,
+     "theme_id": 601,
+     "num_parts": 892,
+     "theme": "Speed Champions",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75913-1.jpg"
+   },
+   {
+     "id": 523,
+     "set_num": "79117-1",
+     "name": "Turtle Lair Invasion",
+     "year": 2014,
+     "theme_id": 570,
+     "num_parts": 888,
+     "theme": "Teenage Mutant Ninja Turtles",
+     "img_url": "https://cdn.rebrickable.com/media/sets/79117-1.jpg"
+   },
+   {
+     "id": 524,
+     "set_num": "75573-1",
+     "name": "Floating Mountains: Site 26 & RDA Samson",
+     "year": 2022,
+     "theme_id": 724,
+     "num_parts": 887,
+     "theme": "Avatar",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75573-1.jpg"
+   },
+   {
+     "id": 525,
+     "set_num": "10245-1",
+     "name": "Santa‚Äôs Workshop",
+     "year": 2014,
+     "theme_id": 228,
+     "num_parts": 884,
+     "theme": "Creator",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10245-1.jpg"
+   },
+   {
+     "id": 526,
+     "set_num": "41196-1",
+     "name": "The Elvenstar Tree Bat Attack",
+     "year": 2018,
+     "theme_id": 600,
+     "num_parts": 883,
+     "theme": "Elves",
+     "img_url": "https://cdn.rebrickable.com/media/sets/41196-1.jpg"
+   },
+   {
+     "id": 527,
+     "set_num": "60188-1",
+     "name": "Mining Experts Site",
+     "year": 2018,
+     "theme_id": 56,
+     "num_parts": 883,
+     "theme": "Construction",
+     "img_url": "https://cdn.rebrickable.com/media/sets/60188-1.jpg"
+   },
+   {
+     "id": 528,
+     "set_num": "75954-1",
+     "name": "Hogwarts Great Hall",
+     "year": 2018,
+     "theme_id": 246,
+     "num_parts": 882,
+     "theme": "Harry Potter",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75954-1.jpg"
+   },
+   {
+     "id": 529,
+     "set_num": "80104-1",
+     "name": "Lion Dance",
+     "year": 2020,
+     "theme_id": 686,
+     "num_parts": 882,
+     "theme": "Chinese Traditional Festivals",
+     "img_url": "https://cdn.rebrickable.com/media/sets/80104-1.jpg"
+   },
+   {
+     "id": 530,
+     "set_num": "41318-1",
+     "name": "Heartlake Hospital",
+     "year": 2017,
+     "theme_id": 494,
+     "num_parts": 880,
+     "theme": "Friends",
+     "img_url": "https://cdn.rebrickable.com/media/sets/41318-1.jpg"
+   },
+   {
+     "id": 531,
+     "set_num": "80037-1",
+     "name": "Dragon of the East",
+     "year": 2022,
+     "theme_id": 693,
+     "num_parts": 880,
+     "theme": "Monkie Kid",
+     "img_url": "https://cdn.rebrickable.com/media/sets/80037-1.jpg"
+   },
+   {
+     "id": 532,
+     "set_num": "10226-1",
+     "name": "Sopwith Camel",
+     "year": 2012,
+     "theme_id": 673,
+     "num_parts": 879,
+     "theme": "Creator Expert",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10226-1.jpg"
+   },
+   {
+     "id": 533,
+     "set_num": "7066-1",
+     "name": "Earth Defense HQ",
+     "year": 2011,
+     "theme_id": 127,
+     "num_parts": 879,
+     "theme": "Alien Conquest",
+     "img_url": "https://cdn.rebrickable.com/media/sets/7066-1.jpg"
+   },
+   {
+     "id": 534,
+     "set_num": "10281-1",
+     "name": "Bonsai",
+     "year": 2021,
+     "theme_id": 721,
+     "num_parts": 878,
+     "theme": "Icons",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10281-1.jpg"
+   },
+   {
+     "id": 535,
+     "set_num": "70676-1",
+     "name": "Lloyd's Titan Mech",
+     "year": 2019,
+     "theme_id": 435,
+     "num_parts": 878,
+     "theme": "Ninjago",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70676-1.jpg"
+   },
+   {
+     "id": 536,
+     "set_num": "71401-1",
+     "name": "Luigi‚Äôs Mansion Haunt-and-Seek Expansion Set",
+     "year": 2022,
+     "theme_id": 690,
+     "num_parts": 877,
+     "theme": "Super Mario",
+     "img_url": "https://cdn.rebrickable.com/media/sets/71401-1.jpg"
+   },
+   {
+     "id": 537,
+     "set_num": "70614-1",
+     "name": "Lightning Jet",
+     "year": 2017,
+     "theme_id": 616,
+     "num_parts": 876,
+     "theme": "The LEGO Ninjago Movie",
+     "img_url": "https://cdn.rebrickable.com/media/sets/70614-1.jpg"
+   },
+   {
+     "id": 538,
+     "set_num": "75551-1",
+     "name": "Brick-Built Minions and Their Lair",
+     "year": 2020,
+     "theme_id": 689,
+     "num_parts": 876,
+     "theme": "Minions",
+     "img_url": "https://cdn.rebrickable.com/media/sets/75551-1.jpg"
+   },
+   {
+     "id": 539,
+     "set_num": "910015-1",
+     "name": "Clockwork Aquarium",
+     "year": 2022,
+     "theme_id": 719,
+     "num_parts": 876,
+     "theme": "BrickLink Designer Program",
+     "img_url": "https://cdn.rebrickable.com/media/sets/910015-1.jpg"
+   },
+   {
+     "id": 540,
+     "set_num": "76392-1",
+     "name": "Hogwarts Wizard's Chess",
+     "year": 2021,
+     "theme_id": 246,
+     "num_parts": 873,
+     "theme": "Harry Potter",
+     "img_url": "https://cdn.rebrickable.com/media/sets/76392-1.jpg"
+   },
+   {
+     "id": 541,
+     "set_num": "80110-1",
+     "name": "Lunar New Year Display",
+     "year": 2023,
+     "theme_id": 686,
+     "num_parts": 872,
+     "theme": "Chinese Traditional Festivals",
+     "img_url": "https://cdn.rebrickable.com/media/sets/80110-1.jpg"
+   },
+   {
+     "id": 542,
+     "set_num": "10405-1",
+     "name": "Mission to Mars",
+     "year": 2018,
+     "theme_id": 621,
+     "num_parts": 871,
+     "theme": "Classic",
+     "img_url": "https://cdn.rebrickable.com/media/sets/10405-1.jpg"
+   },
+   {
+     "id": 543,
+     "set_num": "79018-1",
+     "name": "The Lonely Mountain",
+     "year": 2014,
+     "theme_id": 562,
+     "num_parts": 866,
+     "theme": "The Hobbit",
+     "img_url": "https://cdn.rebrickable.com/media/sets/79018-1.jpg"
+   }
+  ]
+  }
