@@ -1,12 +1,14 @@
-// import './App.css';
 import React, { useEffect, useState } from 'react'
 import { Route, Switch} from 'react-router-dom';
+import { Segment } from 'semantic-ui-react';
+
+
 import Header from './Header';
 import Home from './Home';
 import BrickContainer from './BrickContainer';
-// import { 
-//   Segment} from 'semantic-ui-react';
 import NewBrickSetForm from './NewBrickSetForm';
+
+
 
 
 
@@ -29,7 +31,7 @@ function App() {
   }
 
   return (
-    <div className="App">
+    <Segment.Group className="App" style={{"height" : "100vh"}}>
       <Header/>
       <Switch>
         <Route exact path = "/">
@@ -43,7 +45,7 @@ function App() {
         </Route>
       </Switch>
 
-    </div>
+    </Segment.Group>
   );
 }
 

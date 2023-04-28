@@ -14,9 +14,9 @@ import {
 function BrickContainer( {legoSetData} ) {
   const match = useRouteMatch();
 
-
+//style = {{"marginTop":"0"}}
   return (
-    <Segment padded style = {{"marginTop":"0"}}>
+    <Segment padded >
       <Container textAlign='center'>
         <HeaderUI as='h2'>Lego Set Library Container</HeaderUI>
       </Container>

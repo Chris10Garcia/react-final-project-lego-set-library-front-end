@@ -3,28 +3,30 @@ import { NavLink } from 'react-router-dom';
 import {
   Header as HeaderUI,
   Menu as MenuUI,
-  Segment
+  Segment as SegmentUI
 } from 'semantic-ui-react';
 
 function Header() {
+
+  //style={{ "marginBottom": "0em", "paddingTop" : "3em" }}
   return (
-    <Segment style={{ "marginBottom": "0em", "paddingTop" : "3em" }}>
+    <SegmentUI >
       <HeaderUI as='h1' image = {require("../assets/lego-red-brick-logo.jpeg")} content='Lego Set Library' />
-      <MenuUI widths={3} size ="huge">
+      <MenuUI widths={ 3 } size ="large" pointing>
         <MenuUI.Item
-          as={NavLink}
+          as={ NavLink }
           exact to="/"
           name="home" />
         <MenuUI.Item
-          as={NavLink}
+          as={ NavLink }
           to="/sets"
           name="set library" />
         <MenuUI.Item
-          as={NavLink}
+          as={ NavLink }
           to="/add"
           name="add to library" />
       </MenuUI>
-    </Segment>
+    </SegmentUI>
   );
 }
 
