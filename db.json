@@ -557,6 +557,15 @@
       "theme": "Outer Space",
       "img_url": "https://cdn.rebrickable.com/media/sets/10405-1.jpg",
       "id": 56
+    },
+    {
+      "set_num": "132123",
+      "name": "MTA Lego Train",
+      "year": "2000",
+      "num_parts": "2934",
+      "theme": "City",
+      "img_url": "https://ideascdn.lego.com/media/generate/lego_ci/2eaa01f8-803e-4f77-9c78-504af1caa8bd/resize:950:633/webp",
+      "id": 57
     }
   ]
 }

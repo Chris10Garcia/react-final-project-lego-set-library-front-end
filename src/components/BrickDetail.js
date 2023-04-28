@@ -23,10 +23,8 @@ function BrickDetail({legoSetData}) {
   }
 //style={{maxHeight: "40vh"}}
   return (
-    <Grid.Column width={12}>
+    <>
       <HeaderUI as ="h3" textAlign='center'>Lego Set Details</HeaderUI>
-
-
       <Card fluid style={properties}>
         <Card.Content>
           <Card.Header>{legoSet.name}</Card.Header>
@@ -34,7 +32,7 @@ function BrickDetail({legoSetData}) {
         </Card.Content>
         <Card.Content >
           <div style ={properties}>
-            <Image style={{ maxHeight: "40vh"}} src={legoSet.img_url}></Image>
+            <Image style={{ maxHeight: "42vh"}} src={legoSet.img_url}></Image>
           </div>
         </Card.Content  >
         <Card.Content  >
@@ -43,7 +41,7 @@ function BrickDetail({legoSetData}) {
           <Card.Description> <b>Number of Parts:</b> {legoSet.num_parts} </Card.Description>
         </Card.Content>
       </Card>
-    </Grid.Column>
+    </>
 
   );
 }

@@ -4,7 +4,6 @@ import {
   Container,
   Form,
   Header as HeaderUI,
-  Input,
   Segment
 } from 'semantic-ui-react';
 
@@ -27,9 +26,6 @@ function NewBrickSetForm({addLego}) {
   }
 
   function handleSubmit(){
-    console.log(formData)
-    //fetch request
-
     fetch('http://localhost:3001/legoset', {
       method: "POST",
       headers: {"Content-Type" : "application/json"},
@@ -37,20 +33,18 @@ function NewBrickSetForm({addLego}) {
       .then( r => r.json() )
       .then( data => { 
         addLego(data)
-        alert(`Hello, ${data.name} was successfully added!`)
+        alert(`Hello, ${data.name} set was successfully added!`)
         history.push(`sets/${data.id}`)  
-
-
       })
 
   }
 
   return (
-    <Segment>
+    <Segment >
+      <HeaderUI as='h2' textAlign='centered' style={{"padding": "0.5em"}}>Add New Lego Set Here</HeaderUI>
       <Container text>
-        <HeaderUI as='h2'>Add new lego set here</HeaderUI>
         <Form onSubmit = {handleSubmit}>
-          <Form.Field control='input' label="Lego Set ID" placeholder='Set ID' name='set_num' onChange={handleChange} value={formData.set_num}/> 
+          <Form.Field control='input' label="Lego Set ID" placeholder='Set ID' name='set_num' onChange={handleChange} /> 
           <Form.Field control='input' label="Lego Set Name" placeholder='Name' name='name' onChange={handleChange}/>
           <Form.Field control='input' label="Year Created" placeholder='Year' name='year' type='number' onChange={handleChange}/>
           <Form.Field control='input' label="Number of Parts" placeholder='# of Parts' name='num_parts' type='number' onChange={handleChange}/>
