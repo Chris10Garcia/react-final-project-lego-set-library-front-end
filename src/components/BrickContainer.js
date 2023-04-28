@@ -16,9 +16,9 @@ function BrickContainer( {legoSetData} ) {
 
 //style = {{"marginTop":"0"}}
   return (
-    <Segment padded >
+    <Segment >
       <Container textAlign='center'>
-        <HeaderUI as='h2'>Lego Set Library Container</HeaderUI>
+        <HeaderUI as='h2'>Lego Set Library</HeaderUI>
       </Container>
 
       <Grid padded divided>
@@ -26,10 +26,10 @@ function BrickContainer( {legoSetData} ) {
           <BrickList legoSetData = {legoSetData}/>
 
           <Route exact path = {`${match.url}`}>
-            <Grid.Column width={6}>
-              <Container text> 
+            <Grid.Column width={12}>
+              <Container text textAlign='center'> 
                 <HeaderUI as="h3">Lego Set Details</HeaderUI>
-                Lego details are placed here
+                <HeaderUI as="h4">Select a set from the left!</HeaderUI>
               </Container>
             </Grid.Column>
           </Route>

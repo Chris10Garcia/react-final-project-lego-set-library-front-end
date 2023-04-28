@@ -11,9 +11,9 @@ function Home() {
   //style = {{"minHeight": "100%"}}
   return (
     <Segment textAlign='center'>
-      <ContainerUI text style={{ "marginTop": "10em" }}>
+      <ContainerUI text style={{ "marginTop": "10rem" }}>
         <HeaderUI as='h2' size='huge'>Welcome to the Lego Set Library</HeaderUI>
-        <HeaderUI as='h4' style={{ "marginTop": "2em" }}> A repository of various Leg set's and their details</HeaderUI>
+        <HeaderUI as='h4' style={{ "marginTop": "2em" }}>A repository of various lego set's and their details</HeaderUI>
       </ContainerUI>
       <ContainerUI style={{ "padding": "5em" }}>
         <CardUI.Group itemsPerRow={4}>
