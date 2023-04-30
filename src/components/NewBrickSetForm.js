@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import { useHistory } from 'react-router-dom';
 import {
-  Container,
-  Form,
+  Container as ContainerUI,
+  Form as FormUI,
   Header as HeaderUI,
-  Segment
+  Segment as SegmentUI
 } from 'semantic-ui-react';
 
 function NewBrickSetForm({addLego}) {
@@ -40,20 +40,20 @@ function NewBrickSetForm({addLego}) {
   }
 
   return (
-    <Segment >
+    <SegmentUI >
       <HeaderUI as='h2' textAlign='centered' style={{"padding": "0.5em"}}>Add New Lego Set Here</HeaderUI>
-      <Container text>
-        <Form onSubmit = {handleSubmit}>
-          <Form.Field control='input' label="Lego Set ID" placeholder='Set ID' name='set_num' onChange={handleChange} /> 
-          <Form.Field control='input' label="Lego Set Name" placeholder='Name' name='name' onChange={handleChange}/>
-          <Form.Field control='input' label="Year Created" placeholder='Year' name='year' type='number' onChange={handleChange}/>
-          <Form.Field control='input' label="Number of Parts" placeholder='# of Parts' name='num_parts' type='number' onChange={handleChange}/>
-          <Form.Field control='input' label="Theme" placeholder='Theme' name='theme' onChange={handleChange}/>
-          <Form.Field control='input' label="Image URL" placeholder='Img Url' name='img_url' onChange={handleChange}/>
-          <Form.Button content='Submit' />
-        </Form>
-      </Container>
-    </Segment>
+      <ContainerUI text>
+        <FormUI onSubmit = {handleSubmit}>
+          <FormUI.Field control='input' label="Lego Set ID" placeholder='Set ID' name='set_num' onChange={handleChange} /> 
+          <FormUI.Field control='input' label="Lego Set Name" placeholder='Name' name='name' onChange={handleChange}/>
+          <FormUI.Field control='input' label="Year Created" placeholder='Year' name='year' type='number' onChange={handleChange}/>
+          <FormUI.Field control='input' label="Number of Parts" placeholder='# of Parts' name='num_parts' type='number' onChange={handleChange}/>
+          <FormUI.Field control='input' label="Theme" placeholder='Theme' name='theme' onChange={handleChange}/>
+          <FormUI.Field control='input' label="Image URL" placeholder='Img Url' name='img_url' onChange={handleChange}/>
+          <FormUI.Button content='Submit' />
+        </FormUI>
+      </ContainerUI>
+    </SegmentUI>
   );
 }
 

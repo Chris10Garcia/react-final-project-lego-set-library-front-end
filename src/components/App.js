@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { Route, Switch} from 'react-router-dom';
-import { Segment } from 'semantic-ui-react';
+import { Segment as SegmentUI } from 'semantic-ui-react';
 
 
 import Header from './Header';
@@ -31,7 +31,7 @@ function App() {
   }
 
   return (
-    <Segment.Group className="App" style={{"height" : "100vh"}}>
+    <SegmentUI.Group className="App" style={{"height" : "100vh"}}>
       <Header/>
       <Switch>
         <Route exact path = "/">
@@ -45,7 +45,7 @@ function App() {
         </Route>
       </Switch>
 
-    </Segment.Group>
+    </SegmentUI.Group>
   );
 }
 

@@ -1,29 +1,26 @@
 import React from 'react';
 import {
-  Card as CardUI,
   Container as ContainerUI,
   Header as HeaderUI,
-  Segment
+  Image as ImageUI,
+  Segment as SegmentUI
 } from 'semantic-ui-react';
 
 function Home() {
-  //style={{ "margin": "0em" }}
-  //style = {{"minHeight": "100%"}}
+
   return (
-    <Segment textAlign='center'>
+    <SegmentUI textAlign='center'>
       <ContainerUI text style={{ "marginTop": "10rem" }}>
         <HeaderUI as='h2' size='huge'>Welcome to the Lego Set Library</HeaderUI>
         <HeaderUI as='h4' style={{ "marginTop": "2em" }}>A repository of various lego set's and their details</HeaderUI>
       </ContainerUI>
-      <ContainerUI style={{ "padding": "5em" }}>
-        <CardUI.Group itemsPerRow={4}>
-          <CardUI image={require("../assets/legotestpic.png")} />
-          <CardUI image={require("../assets/legotestpic.png")} />
-          <CardUI image={require("../assets/legotestpic.png")} />
-          <CardUI image={require("../assets/legotestpic.png")} />
-        </CardUI.Group>
+      <ContainerUI style={{ "padding": "5em", "width":"35%"}} centered >
+        <ImageUI.Group size = "small">
+          <ImageUI floated='left' src={require("../assets/legofigure.jpg")} />
+          <ImageUI floated="right" src={require("../assets/legofigure2.webp")} />
+        </ImageUI.Group>
       </ContainerUI>
-    </Segment>
+    </SegmentUI>
 
   );
 }

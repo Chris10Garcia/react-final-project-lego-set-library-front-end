@@ -1,14 +1,14 @@
 import React from 'react';
-import { useParams, Redirect } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import {
-  Card,
-  Container,
-  Grid, Header as HeaderUI, Image, Item
+  Card as CardUI,
+  Header as HeaderUI, 
+  Image as ImageUI
 } from 'semantic-ui-react';
 
 function BrickDetail({legoSetData}) {
   const params = useParams()
-  params.legoSetId = params.legoSetId - 1
+  params.legoSetId = params.legoSetId - 1 
   const legoSet = legoSetData[params.legoSetId]
   
   // wait for page to load.
@@ -21,27 +21,27 @@ function BrickDetail({legoSetData}) {
     "margin-right": "auto",
     "width": "60%"
   }
-//style={{maxHeight: "40vh"}}
+
   return (
-    <>
+    <React.Fragment>
       <HeaderUI as ="h3" textAlign='center'>Lego Set Details</HeaderUI>
-      <Card fluid style={properties}>
-        <Card.Content>
-          <Card.Header>{legoSet.name}</Card.Header>
-          <Card.Meta> Lego Set ID: {legoSet.set_num}</Card.Meta>
-        </Card.Content>
-        <Card.Content >
+      <CardUI fluid style={properties}>
+        <CardUI.Content>
+          <CardUI.Header>{legoSet.name}</CardUI.Header>
+          <CardUI.Meta>Lego Set ID: {legoSet.set_num}</CardUI.Meta>
+        </CardUI.Content>
+        <CardUI.Content >
           <div style ={properties}>
-            <Image style={{ maxHeight: "42vh"}} src={legoSet.img_url}></Image>
+            <ImageUI style={{ maxHeight: "42vh"}} src={legoSet.img_url}></ImageUI>
           </div>
-        </Card.Content  >
-        <Card.Content  >
-          <Card.Description> <b>Year:</b> {legoSet.year} </Card.Description>
-          <Card.Description> <b>Theme:</b> {legoSet.theme} </Card.Description>
-          <Card.Description> <b>Number of Parts:</b> {legoSet.num_parts} </Card.Description>
-        </Card.Content>
-      </Card>
-    </>
+        </CardUI.Content  >
+        <CardUI.Content  >
+          <CardUI.Description> <b>Year:</b> {legoSet.year} </CardUI.Description>
+          <CardUI.Description> <b>Theme:</b> {legoSet.theme} </CardUI.Description>
+          <CardUI.Description> <b>Number of Parts:</b> {legoSet.num_parts} </CardUI.Description>
+        </CardUI.Content>
+      </CardUI>
+    </React.Fragment>
 
   );
 }

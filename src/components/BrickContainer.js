@@ -14,7 +14,6 @@ import {
 function BrickContainer( {legoSetData} ) {
   const match = useRouteMatch();
 
-
   return (
     <SegmentUI >
       <HeaderUI as='h2' textAlign='centered' style={{"padding": "0.5em"}}>Lego Set Library</HeaderUI>
@@ -22,19 +21,18 @@ function BrickContainer( {legoSetData} ) {
       <GridUI padded>
         <GridUI.Row>
           <GridUI.Column width={5}>
-            <BrickList legoSetData = {legoSetData}/>
+            <BrickList legoSetData = { legoSetData } />
           </GridUI.Column>
 
           <GridUI.Column width={11}>
 
-            <Route exact path = {`${match.url}`}>
+            <Route exact path = { `${match.url}` }>
                 <ContainerUI textAlign='center'> 
                   <HeaderUI as="h3">Lego Set Details</HeaderUI>
                   <HeaderUI as="h4">Select a set from the left!</HeaderUI>
                 </ContainerUI>
             </Route>
-
-            <Route exact path = {`${match.url}/:legoSetId`}>
+            <Route exact path = { `${match.url}/:legoSetId` }>
               <BrickDetail legoSetData = {legoSetData}/>
             </Route>
 

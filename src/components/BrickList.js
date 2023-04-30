@@ -13,7 +13,8 @@ function BrickList({ legoSetData }) {
           key = {lego.id} 
           name = {lego.name} 
           as={NavLink} 
-          to = {`/sets/${lego.id}`} />
+          to = {`/sets/${lego.id}`} 
+          color = {'yellow'} />
     )
   })
 
