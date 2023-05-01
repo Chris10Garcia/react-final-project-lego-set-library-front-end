@@ -7,12 +7,10 @@ import {
 } from 'semantic-ui-react';
 
 function Header() {
-
-  //style={{ "marginBottom": "0em", "paddingTop" : "3em" }}
   return (
     <SegmentUI >
       <HeaderUI as='h1' image = {require("../assets/lego-red-brick-logo.jpeg")} content='Lego Set Library' />
-      <MenuUI widths={ 3 } size ="large" pointing>
+      <MenuUI widths={ 3 } size ="large" pointing color="yellow">
         <MenuUI.Item
           as={ NavLink }
           exact to="/"

@@ -9,17 +9,10 @@ import BrickContainer from './BrickContainer';
 import NewBrickSetForm from './NewBrickSetForm';
 
 
-
-
-
 function App() {
-
-  // brickList Data needs to be here because of BrickContainer and NewBrickForm Components
-
   const [legoSetData, setLegoSetData] = useState([])
 
   useEffect( () => {
-
     fetch('http://localhost:3001/legoset')
     .then( r => r.json() )
     .then( d => setLegoSetData(d))
@@ -30,6 +23,7 @@ function App() {
     setLegoSetData([...legoSetData, legoObj])
   }
 
+  //
   return (
     <SegmentUI.Group className="App" style={{"height" : "100vh"}}>
       <Header/>
