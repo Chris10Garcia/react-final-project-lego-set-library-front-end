@@ -1,16 +1,28 @@
-# Phase 2 Final Project: Welcome to the Lego Set Database Library!
+# Phase 2 Final Project: LEGO Set Database Library
 
 <!-- Gif of webpage functioning preview -->
 
 
 ## Table of Content
 
+1. [Overview](#overview)
+2. [Get Started](#get-started)
+3. [Acquring the Data](#acquring-the-data)
+4. [Source and Credits](#source-and-credits)
+
 
 ## Overview
 
+Utilizing Rebrickable's LEGO catalog database, I created a single page React App that show cases various LEGO sets. To test my skills, the app utilizes routing, nested routing, state, useEffect, RESTful convention, and the Semantic UI React.
+
 
 ## Get Started
-- 
+
+- Clone the repo
+- Install [json-server](https://github.com/typicode/json-server)
+- On one terminal, run `json-server --watch db.json --port 3001`
+- On a second terminal, run `npm start`
+- Enjoy checking out the various LEGO sets!
 
 
 ## Acquring the Data
@@ -18,26 +30,21 @@
 
 ## Source and Credits
 
-lego logo picture
-- https://27gen.com/2016/04/04/consider-the-lego-brick/
-
-lego logo head
-- 
-
 API / Data Set
-- 
+- [Rebrickable Catalog Download](https://rebrickable.com/downloads/)
 
 Guides / Online Documents
-- React Semantic UI 
+- [Semantic UI React](https://react.semantic-ui.com/) 
 
+Photos / Pictures
+- [LEGO Brick](https://27gen.com/2016/04/04/consider-the-lego-brick/)
 
-## Getting Started with Create React App
+- [LEGO Figure Head ICON]()
+
+- [Character 1]()
+
+- [Character 2]()
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
