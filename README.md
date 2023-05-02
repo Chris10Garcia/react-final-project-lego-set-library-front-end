@@ -7,8 +7,7 @@
 
 1. [Overview](#overview)
 2. [Get Started](#get-started)
-3. [Acquring the Data](#acquring-the-data)
-4. [Source and Credits](#source-and-credits)
+3. [Source and Credits](#source-and-credits)
 
 
 ## Overview
@@ -25,9 +24,6 @@ Utilizing Rebrickable's LEGO catalog database, I created a single page React App
 - Enjoy checking out the various LEGO sets!
 
 
-## Acquring the Data
-
-
 ## Source and Credits
 
 API / Data Set
@@ -39,12 +35,12 @@ Guides / Online Documents
 Photos / Pictures
 - [LEGO Brick](https://27gen.com/2016/04/04/consider-the-lego-brick/)
 
-- [LEGO Figure Head ICON]()
+- [LEGO Figure Head ICON](https://icon-icons.com/icon/lego-figure-head-smile-toy/108508)
 
-- [Character 1]()
+- [LEGO Figure Character 1](https://www.amazon.com/LEGO-Movie-Minifigure-Wyldstyle-Hoodie/dp/B00HNY2RCU)
 
-- [Character 2]()
+- [LEGO Figure Character 2](https://www.minifiguresdisplay.com/products/awesome-remix-emmet-lego-movie-2-minifigure)
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
