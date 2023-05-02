@@ -17,10 +17,8 @@ Utilizing Rebrickable's LEGO catalog database, I created a single page React App
 
 ## Get Started
 
-- Clone the repo
-- Install [json-server](https://github.com/typicode/json-server)
-- On one terminal, run `json-server --watch db.json --port 3001`
-- On a second terminal, run `npm start`
+- Clone this repo
+- Run `npm start`
 - Enjoy checking out the various LEGO sets!
 
 

@@ -11,13 +11,13 @@ import NewBrickSetForm from './NewBrickSetForm';
 
 function App() {
   const [legoSetData, setLegoSetData] = useState([])
-
+  console.log(process.env.REACT_APP_API_URL)
   useEffect( () => {
-    fetch('https://reactfinalprojectbackend.onrender.com/legoset')
+    fetch(process.env.REACT_APP_API_URL)
     .then( r => r.json() )
     .then( d => setLegoSetData(d))
   }, [])
-
+ 
 
   function addLego(legoObj){
     setLegoSetData([...legoSetData, legoObj])
