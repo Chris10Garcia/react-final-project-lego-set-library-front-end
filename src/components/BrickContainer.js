@@ -16,7 +16,7 @@ function BrickContainer( {legoSetData} ) {
 
   return (
     <SegmentUI >
-      <HeaderUI as='h2' textAlign='centered' style={{"padding": "0.5em"}}>Lego Set Library</HeaderUI>
+      <HeaderUI as='h2' textAlign='center' style={{"padding": "0.5em"}}>Lego Set Library</HeaderUI>
 
       <GridUI padded>
         <GridUI.Row>

@@ -11,7 +11,7 @@ import NewBrickSetForm from './NewBrickSetForm';
 
 function App() {
   const [legoSetData, setLegoSetData] = useState([])
-  console.log(process.env.REACT_APP_API_URL)
+
   useEffect( () => {
     fetch(process.env.REACT_APP_API_URL)
     .then( r => r.json() )
