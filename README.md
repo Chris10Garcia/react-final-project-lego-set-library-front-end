@@ -1,4 +1,5 @@
-# Phase 2 Final Project: LEGO Set Database Library
+# Phase 2 Final Project: [LEGO Set Database Library](https://spiffy-starship-82124d.netlify.app/)
+
 
 <!-- Gif of webpage functioning preview -->
 
@@ -17,7 +18,11 @@ Utilizing Rebrickable's LEGO catalog database, I created a single page React App
 
 ## Get Started
 
+My project is deployed [here](https://spiffy-starship-82124d.netlify.app/) or copy and paste this link https://spiffy-starship-82124d.netlify.app/ to your browser. However, if you want to locally deploy a copy, follow the steps below:
+
 - Clone this repo
+- Install [json-server](https://github.com/typicode/json-server)
+- Run `json-server --watch db.json --port 3001`.
 - Run `npm start`
 - Enjoy checking out the various LEGO sets!
 
