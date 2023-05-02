@@ -41,7 +41,7 @@ function NewBrickSetForm({addLego}) {
 
   return (
     <SegmentUI >
-      <HeaderUI as='h2' textAlign='centered' style={{"padding": "0.5em"}}>Add New Lego Set Here</HeaderUI>
+      <HeaderUI as='h2' textAlign='center' style={{"padding": "0.5em"}}>Add New Lego Set Here</HeaderUI>
       <ContainerUI text>
         <FormUI onSubmit = {handleSubmit}>
           <FormUI.Field control='input' label="Lego Set ID" placeholder='Set ID' name='set_num' onChange={handleChange} /> 
