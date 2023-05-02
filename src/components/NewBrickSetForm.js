@@ -26,7 +26,7 @@ function NewBrickSetForm({addLego}) {
   }
 
   function handleSubmit(){
-    fetch('http://localhost:3001/legoset', {
+    fetch('https://reactfinalprojectbackend.onrender.com/legoset', {
       method: "POST",
       headers: {"Content-Type" : "application/json"},
       body: JSON.stringify(formData)})

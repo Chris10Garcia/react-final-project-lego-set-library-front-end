@@ -13,7 +13,7 @@ function App() {
   const [legoSetData, setLegoSetData] = useState([])
 
   useEffect( () => {
-    fetch('http://localhost:3001/legoset')
+    fetch('https://reactfinalprojectbackend.onrender.com/legoset')
     .then( r => r.json() )
     .then( d => setLegoSetData(d))
   }, [])
