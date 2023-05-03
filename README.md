@@ -18,7 +18,9 @@ Utilizing Rebrickable's LEGO catalog database, I created a single page React App
 
 ## Get Started
 
-My project is deployed [here](https://spiffy-starship-82124d.netlify.app/) or copy and paste this link https://spiffy-starship-82124d.netlify.app/ to your browser. However, if you want to locally deploy a copy, follow the steps below:
+My project is deployed [here](https://spiffy-starship-82124d.netlify.app/) or copy and paste this link https://spiffy-starship-82124d.netlify.app/ to your browser. Please note, I am using render as the backend host and the responses to the fetch request to this server may take several seconds up to a minute to receive. 
+
+If you want to locally deploy a copy, follow the steps below:
 
 - Clone this repo
 - Install [json-server](https://github.com/typicode/json-server)

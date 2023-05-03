@@ -7,6 +7,8 @@ import {
 
 function BrickList({ legoSetData }) {
 
+  if (legoSetData.length === 0) return <h3>Please wait while backend server starts up and completes the fetch request</h3>
+
   const renderLegoSetData = legoSetData.map(lego => {
     return(
       <MenuUI.Item 
