@@ -1,7 +1,7 @@
 # Phase 2 Final Project: [LEGO Set Database Library](https://spiffy-starship-82124d.netlify.app/)
 
 
-![Preview of website functioning](https://github.com/Chris10Garcia/react-final-project-lego-set-library-front-end/blob/main/webpagevideo.gif)
+![Preview of website functioning](https://github.com/Chris10Garcia/react-final-project-lego-set-library-front-end/blob/main/videopreview.mp4)
 
 
 ## Table of Content
