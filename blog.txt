@@ -10,9 +10,20 @@ Topic: High Level Overview on how to use State in React
 - In React, a virtual DOM is created to allow more efficient browser DOM manuiplation and re-renderings. 
 - To have React know and update which components when a change in information occurs, it utilzies "state". 
 - State of a component is an object that holds information that may change over time and / or due to interactions by the user. 
-- This allows React to re-render the component without losing the change 
+- This allows React to know when to re-render the component
 - And within a recent update to React, hooks are introduced to allow you to use state and other React features without writing a class (https://legacy.reactjs.org/docs/hooks-intro.html)
 
 - Before we begin, there are some import rules for hooks
-- rules of hooks:
-    - Only call hooks at the top level! You can't call useState inside loops or conditions. If you need to, create a new component and move state into it.
+    - Only call hooks at the top level of a function component! Think of it similarly to the import statement
+    - You can't call hooks inside loops or conditions.
+    - Hooks can only be called from React Functions.
+
+to begin, you need to import useState from the react library
+
+
+`import React, { useState } from 'react'`
+
+
+
+
+
