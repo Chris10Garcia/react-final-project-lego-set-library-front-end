@@ -6,18 +6,17 @@
 Topic: An Overview on how to use State in React
 
 
-
-- In React, a virtual DOM is created to allow more efficient browser DOM manuiplation and re-renderings. To allow React to know which components to update when a change in information occurs, it utilzies "state". State of a component is an object that holds information that may change over time and / or due to interactions by the user. This allows React to know when to re-render the component. And within a recent update to React, hooks are introduced to allow you to use state and other React features easier without writing a class (https://legacy.reactjs.org/docs/hooks-intro.html). 
+- In React, a virtual DOM is created to allow more efficient browser DOM manipulation and re-renderings. To allow React to know which components to update when a change in information occurs, it utilizes "state". State of a component is an object that holds information that may change over time and / or due to interactions by the user. This allows React to know when to re-render the component. And within a recent update to React, hooks are introduced to allow you to use state and other React features easier without writing a class (https://legacy.reactjs.org/docs/hooks-intro.html). 
 
 Before we begin, there are some import rules for hooks (like useState and others)
     - Only call hooks at the top level of a function component. Think of it similarly to the import statement
     - You can't call hooks inside loops or conditions.
     - Hooks can only be called from React Functions.
 
-Let's say you have a button, and everytime you click it, it increases a counter. In vanilla JS you would have to
-- create an eventListener and attached to the button element
+Let's say you have a button, and every time you click it, it increases a counter. In vanilla JS you would have to
+- create an event listener and attached to the button element
 - go into the DOM and access the element that contains the counter value
-- incriment it
+- increment it
 - and then append the element
 
 Let's do this instead using React. Let's write out our basic Component.
@@ -39,11 +38,11 @@ function CounterExample(){
 export default CounterExample
 `
 
-First we need to import useState from the react library.
+First, we need to import useState from the react library.
 
 `import React, { useState } from 'react'
 
-Next, we need to call on useState, which the argument it accepts will be the intital value of your state variable. 
+Next, we need to call on useState, which the argument it accepts will be the initial value of your state variable. 
 
 `
 const [counter, setCounter] = useState(0)
@@ -51,14 +50,14 @@ const [counter, setCounter] = useState(0)
 
 
 There are a few things going on with the above line of code. 
-- First, useState returns a 2 element array. The first element is the state variable with the intital argument you passed into the useState function. The second element is the setter function that sets the first element's value. You can not assign a new value directly to the state variable. Instead, you use the setter function to set the value. This is how React knows when to re-render the component
-- Second, the above line uses JS descturuting. You can separate the elements of an array or properties of an object into seperate variables all within 1 line. In the above case, the first element is the state variable and the second is the setter function
+- First, useState returns a 2-element array. The first element is the state variable with the initial argument you passed into the useState function. The second element is the setter function that sets the first element's value. You cannot assign a new value directly to the state variable. Instead, you use the setter function to set the value. This is how React knows when to re-render the component
+- Second, the above line uses JS destructuring. You can separate the elements of an array or properties of an object into separate variables all within 1 line. In the above case, the first element is the state variable and the second is the setter function
 
-Important note, it is a common programming pattern to add the word "set" infront of the state variable name when assigning it as the setter function. So "formData", "counter", "color" will be "setFormData", "setCounter", "setColor", etc 
+Important note, it is a common programming pattern to add the word "set" in front of the state variable name when assigning it as the setter function. So "formData", "counter", "color" will be "setFormData", "setCounter", "setColor", etc. 
 
 
 
-Next, we need to create our React eventlistern and incriment our state variable
+Next, we need to create our React event listener and increment our state variable
 
 
 `
@@ -83,7 +82,7 @@ We're passing a callback function that increases the value of counter by 1. As m
 
 Now every time you press the button, the counter value increases and gets updated within the DOM.
 
-When using forms, you need to capture the input values using state. However, if you have multiple inputs, using so many state variables can become convulted. Besides passing single values, you can pass arrays or objects into state and state setter functions
+When using forms, you need to capture the input values using state. However, if you have multiple inputs, using so many state variables can become convoluted. Besides passing single values, you can pass arrays or objects into state and state setter functions
 
 For example:
 
@@ -113,7 +112,7 @@ instead of creating multiple state's, you can create 1 state to capture all thre
     const [form, setFormData] = useState( {"firstName": "", "lastName" : "", "age" : "" })
 `
 
-So when you create your eventListener for each input, you can create 1 eventlistener that accesses the key value pair within the object and update it.
+So, when you create your event listener for each input, you can create 1 event listener that accesses the key value pair within the object and update it.
 
 
 `
@@ -127,7 +126,7 @@ function handleOnChange(e){
 
 `
 
-Please note, if you are using objects or arrays with state, you need to pass a COPY of it. You can not use mutable array methods. However, you can "spread" the array or object into the setter function. 
+Please note, if you are using objects or arrays with state, you need to pass a COPY of it. You cannot use mutable array methods. However, you can "spread" the array or object into the setter function. 
 
 The final set of code will be 
 
@@ -162,21 +161,21 @@ index.js
     |--- AddData
 `
 
-DisplayData needs a state variable to display some data. However, AddData contains data that will eventually be added to the state variable within DisplayData. So App will contain the state data variable and then passed that down to DisplayData while passing down the setter function to the AddData component.
+DisplayData needs a state variable to display some data. However, AddData contains data that will eventually be added to the state variable within DisplayData. So, App will contain the state data variable and then passed that down to DisplayData while passing down the setter function to the AddData component.
 
 Also, AddData contains forms which need to be controlled. A separate state variable will be needed to keep tract of the input values. However, based on how our app is configured, it can stay within this component. When the user presses submit, a callback function or the setter function can be passed down to add the new data to the data state variable.
 
-Our new map will look like this. (Please note you can design your map however you like, but make it so that it shows a logical map of where your state variables are established!)
+Our new map will look like this. (Please note you can design your map however you like but make it so that it shows a logical map of where your state variables are established!)
 
 `
 index.js
 |--- App (data, setData)
     |--- Header
     |--- DisplayData <- data |
-    |--- AddData <- setData | (form, setForm)
+    |--- AddData <- setData | (formData, setFormData)
 `
 
-Lastly, when react re-renders the component where the state variable is assigned, it will render every child component underneath it as well but not parent or slibbling componets.
+Lastly, when react re-renders the component where the state variable is assigned, it will render every child component underneath it as well but not parent or sibling components.
 
 I hope my above guide helped you on your programming journey. Comment questions or feedback.
 
