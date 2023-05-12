@@ -9,8 +9,8 @@ Topic: An Overview on how to use State in React
 
 - In React, a virtual DOM is created to allow more efficient browser DOM manuiplation and re-renderings. To allow React to know which components to update when a change in information occurs, it utilzies "state". State of a component is an object that holds information that may change over time and / or due to interactions by the user. This allows React to know when to re-render the component. And within a recent update to React, hooks are introduced to allow you to use state and other React features easier without writing a class (https://legacy.reactjs.org/docs/hooks-intro.html). 
 
-Before we begin, there are some import rules for hooks (like useState)
-    - Only call hooks at the top level of a function component! Think of it similarly to the import statement
+Before we begin, there are some import rules for hooks (like useState and others)
+    - Only call hooks at the top level of a function component. Think of it similarly to the import statement
     - You can't call hooks inside loops or conditions.
     - Hooks can only be called from React Functions.
 
@@ -20,7 +20,7 @@ Let's say you have a button, and everytime you click it, it increases a counter.
 - incriment it
 - and then append the element
 
-Let's do this instead using React. Let's write out our basic Component
+Let's do this instead using React. Let's write out our basic Component.
 
 `
 import React from 'react'
@@ -79,7 +79,7 @@ export default CounterExample
 `
 
 
-We're passing a callback function that increases the value of counter by 1. As mentioned before, you can't just assign a new value to counter. Instead, you need to pass a new value to setCounter. React will then notice that there has been a change with the state variable and re-ender that component.
+We're passing a callback function that increases the value of counter by 1. As mentioned before, you can't just assign a new value to counter. Instead, you need to pass a new value to setCounter. React will update the state variable and know to re-ender that component.
 
 Now every time you press the button, the counter value increases and gets updated within the DOM.
 
@@ -176,6 +176,7 @@ index.js
     |--- AddData <- setData | (form, setForm)
 `
 
+Lastly, when react re-renders the component where the state variable is assigned, it will render every child component underneath it as well but not parent or slibbling componets.
 
 I hope my above guide helped you on your programming journey. Comment questions or feedback.
 
